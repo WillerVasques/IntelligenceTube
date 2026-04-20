@@ -34,7 +34,7 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           
-          if [[ $(git status --porcelain public/) ]]; then
+          if [[ $(git status --porcelain docs/) ]]; then
             git add public/
             git commit -m "chore: update feeds"
             git push
