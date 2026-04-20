@@ -12,7 +12,7 @@ cacheUrl: https://willervasques.github.io/IntelligenceTube/cache.json
   - href: https://www.youtube.com/feeds/videos.xml?channel_id=UCnUYZLuoy1rq1aVMwx4aTzw
 
 # `siteTitle`: Título a ser usado na aba do navegador e na saída do feed legível por máquina. (opcional)
-siteTitle: "osmos::feed"
+siteTitle: "YouTube Intelligence Dashboard"
 
 # `timezone`: Especifique seu fuso horário local para que o servidor possa agrupar o conteúdo por dia da semana
 # Encontre o seu na coluna "Nome do banco de dados TZ" desta página: https://en.wikipedia.org/wiki/List_of_tz_database_time_zones#List
