@@ -8,8 +8,8 @@ export const USER_TEMPLATE_DIR = "includes";
 export const USER_SNIPPET_DIR = "includes";
 export const USER_STATIC_DIR = "static";
 
-export const SYSTEM_STATIC_DIR = "bin/system-static";
-export const SYSTEM_TEMPLATE_DIR = "bin/system-templates";
+export const SYSTEM_STATIC_DIR = "system-static";
+export const SYSTEM_TEMPLATE_DIR = "system-templates";
 
 /** Build output folder, also the root of the website */
 export const PUBLIC_ROOT_DIR = "docs";
