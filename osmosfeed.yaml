@@ -2,7 +2,7 @@
 cacheUrl: https://willervasques.github.io/IntelligenceTube/cache.json
 
 # `sources`: Uma lista de assinaturas RSS. (obrigatório)
-
+sources:
   # `href`: Uma URL que retorna conteúdo nos formatos RSS 1.0, RSS 2.0 ou Atom. (obrigatório para cada fonte)
   - href: https://www.youtube.com/feeds/videos.xml?channel_id=UCsUalyRg43M8D60mtHe6YcA
   - href: https://www.youtube.com/feeds/videos.xml?channel_id=UC9-y-6csu5WGm29I7JiwpnA
