@@ -140,18 +140,26 @@ function organizeBySources(input: GetTemplateDataInput): TemplateSource[] {
   const articles = organizeByArticles(input);
 
   const articlesBySource = groupBy(articles, (article) => article.source);
-  const sortedArticlesBySource = [...articlesBySource.entries()].map(([source, articles]) => ({
-    ...source,
-    ...getTimestamps(articles[0].isoUtcPublishTime, input.config.timezoneOffset),
-    articles: articles.sort((a, b) => b.publishedOn.localeCompare(a.publishedOn)), // by date, most recent first
-    dates: [...groupBy(articles, (article) => article.isoOffsetPublishDate)]
-      .sort((a, b) => b[0].localeCompare(a[0])) // by date, most recent first
-      .map(([date, articles]) => ({
-        isoPublishDate: date,
-        ...getTimestamps(articles[0].isoUtcPublishTime, input.config.timezoneOffset),
-        articles,
-      })),
-  }));
+  const sortedArticlesBySource = [...articlesBySource.entries()].map(([source, articles]) => {
+    
+    // Novidade: Ordena os vídeos do mais recente para o mais antigo e corta apenas os 10 primeiros
+    const limitedArticles = articles
+      .sort((a, b) => b.publishedOn.localeCompare(a.publishedOn))
+      .slice(0, 10);
+
+    return {
+      ...source,
+      ...getTimestamps(limitedArticles[0].isoUtcPublishTime, input.config.timezoneOffset),
+      articles: limitedArticles, // Passa a usar apenas os 10 vídeos
+      dates: [...groupBy(limitedArticles, (article) => article.isoOffsetPublishDate)]
+        .sort((a, b) => b[0].localeCompare(a[0])) // by date, most recent first
+        .map(([date, dateArticles]) => ({
+          isoPublishDate: date,
+          ...getTimestamps(dateArticles[0].isoUtcPublishTime, input.config.timezoneOffset),
+          articles: dateArticles,
+        })),
+    };
+  });
 
   return sortedArticlesBySource;
 }
