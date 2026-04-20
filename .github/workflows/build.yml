@@ -1,0 +1,37 @@
+name: Build Feed
+
+on:
+  schedule:
+    - cron: '0 */6 * * *'  # A cada 6 horas
+  workflow_dispatch:  # Permite rodar manualmente
+  push:
+    branches: [main]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: actions/setup-node@v3
+        with:
+          node-version: '18'
+      
+      - name: Install dependencies
+        run: npm install -w packages/cli
+      
+      - name: Build feed
+        run: npm run build -w packages/cli
+      
+      - name: Deploy to GitHub Pages
+        uses: actions/upload-artifact@v3
+        with:
+          name: public
+          path: public/
+      
+      - name: Commit and push
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git add public/cache.json
+          git commit -m "Update feed cache" || echo "No changes"
+          git push
