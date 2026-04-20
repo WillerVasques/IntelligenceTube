@@ -1,453 +1,409 @@
 {
   "sources": [
     {
-      "title": "CultRepo",
-      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCsUalyRg43M8D60mtHe6YcA",
-      "siteUrl": "https://www.youtube.com/channel/UCsUalyRg43M8D60mtHe6YcA",
+      "title": "Área Tech Brasil",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCpOSu4F9cqSjh1OgbmOT5cQ",
+      "siteUrl": "https://www.youtube.com/channel/UCpOSu4F9cqSjh1OgbmOT5cQ",
       "articles": [
         {
-          "id": "https://www.youtube.com/watch?v=pleo1VA9D70",
+          "id": "https://www.youtube.com/watch?v=Xsb-rEZJmsY",
           "author": null,
           "description": "",
-          "link": "https://www.youtube.com/watch?v=pleo1VA9D70",
-          "publishedOn": "2026-04-19T18:00:51.000Z",
+          "link": "https://www.youtube.com/watch?v=Xsb-rEZJmsY",
+          "publishedOn": "2026-04-16T22:00:41.000Z",
           "wordCount": null,
-          "title": "Why one of the world's largest digital banks chose Clojure and Datomic",
+          "title": "Programação em 2026... Sendo brutalmente Honesto",
           "imageUrl": null
         },
         {
-          "id": "https://www.youtube.com/watch?v=Y24vK_QDLFg",
+          "id": "https://www.youtube.com/watch?v=lPD9WrGNxdM",
           "author": null,
           "description": "",
-          "link": "https://www.youtube.com/watch?v=Y24vK_QDLFg",
-          "publishedOn": "2026-04-16T18:00:22.000Z",
+          "link": "https://www.youtube.com/watch?v=lPD9WrGNxdM",
+          "publishedOn": "2026-04-09T22:00:57.000Z",
           "wordCount": null,
-          "title": "How one programmer's pet project changed how we think about software",
+          "title": "POV: Você escolheu ser programador no Brasil",
           "imageUrl": null
         },
         {
-          "id": "https://www.youtube.com/watch?v=4qTwA6Y1-OI",
+          "id": "https://www.youtube.com/watch?v=3RY2bv9G_j8",
           "author": null,
           "description": "",
-          "link": "https://www.youtube.com/watch?v=4qTwA6Y1-OI",
-          "publishedOn": "2026-04-16T16:00:06.000Z",
+          "link": "https://www.youtube.com/watch?v=3RY2bv9G_j8",
+          "publishedOn": "2026-04-07T22:00:05.000Z",
           "wordCount": null,
-          "title": "Spring: The Documentary [OFFICIAL TRAILER] Coming May 7th! 🚨",
+          "title": "Por que os Programadores estão ABANDONANDO essa área?",
           "imageUrl": null
         },
         {
-          "id": "https://www.youtube.com/watch?v=JJEyffSdBsk",
+          "id": "https://www.youtube.com/watch?v=39a4F0P5fJ0",
           "author": null,
           "description": "",
-          "link": "https://www.youtube.com/watch?v=JJEyffSdBsk",
-          "publishedOn": "2026-03-26T17:15:17.000Z",
+          "link": "https://www.youtube.com/watch?v=39a4F0P5fJ0",
+          "publishedOn": "2026-04-02T22:00:04.000Z",
           "wordCount": null,
-          "title": "Clojure: The Documentary [OFFICIAL TRAILER] | Coming April 16th! 🚨",
+          "title": "Ainda VALE A PENA aprender PROGRAMAÇÃO em 2026?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=nO--3BQNgUA",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=nO--3BQNgUA",
+          "publishedOn": "2026-03-31T22:00:00.000Z",
+          "wordCount": null,
+          "title": "Você [NÃO] deveria Aprender Programação em 2026",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=0trN6d1jA7Q",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=0trN6d1jA7Q",
+          "publishedOn": "2026-03-26T22:00:00.000Z",
+          "wordCount": null,
+          "title": "Como aprender Programação sozinho (sem ter talento)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=G-Jm8rooTVA",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=G-Jm8rooTVA",
+          "publishedOn": "2026-03-24T22:00:26.000Z",
+          "wordCount": null,
+          "title": "Método infalível para Aprender Programação sozinho!",
           "imageUrl": null
         }
       ]
     },
     {
-      "title": "Computerphile",
-      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC9-y-6csu5WGm29I7JiwpnA",
-      "siteUrl": "https://www.youtube.com/channel/UC9-y-6csu5WGm29I7JiwpnA",
+      "title": "Rascunhos Econômicos",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCyTpvFRG2v9kuzJZwUZ8M2Q",
+      "siteUrl": "https://www.youtube.com/channel/UCyTpvFRG2v9kuzJZwUZ8M2Q",
       "articles": [
         {
-          "id": "https://www.youtube.com/watch?v=cYS57xJuRP8",
+          "id": "https://www.youtube.com/watch?v=cV8Bv6wLtaM",
           "author": null,
           "description": "",
-          "link": "https://www.youtube.com/watch?v=cYS57xJuRP8",
-          "publishedOn": "2026-04-17T12:30:53.000Z",
+          "link": "https://www.youtube.com/watch?v=cV8Bv6wLtaM",
+          "publishedOn": "2026-04-20T13:35:36.000Z",
           "wordCount": null,
-          "title": "Original Hello World in \"B\" Programming Language - Computerphile",
+          "title": "ÚLTIMA CHANCE",
           "imageUrl": null
         },
         {
-          "id": "https://www.youtube.com/watch?v=x_pwyoLsvkw",
+          "id": "https://www.youtube.com/watch?v=OKE3g-f5bMk",
           "author": null,
           "description": "",
-          "link": "https://www.youtube.com/watch?v=x_pwyoLsvkw",
-          "publishedOn": "2026-04-09T16:30:22.000Z",
+          "link": "https://www.youtube.com/watch?v=OKE3g-f5bMk",
+          "publishedOn": "2026-04-20T11:09:53.000Z",
           "wordCount": null,
-          "title": "Oversampling Data (Explained with Audio) - Computerphile",
+          "title": "ECONOMIA SEM FILTRO — RESPONDO QUALQUER PERGUNTA AO VIVO",
           "imageUrl": null
         },
         {
-          "id": "https://www.youtube.com/watch?v=_MoRcYLN-7U",
+          "id": "https://www.youtube.com/watch?v=6t4_8_UUr6E",
           "author": null,
           "description": "",
-          "link": "https://www.youtube.com/watch?v=_MoRcYLN-7U",
-          "publishedOn": "2026-04-02T13:00:51.000Z",
+          "link": "https://www.youtube.com/watch?v=6t4_8_UUr6E",
+          "publishedOn": "2026-04-19T12:50:35.000Z",
           "wordCount": null,
-          "title": "Post Quantum Cryptography - Computerphile",
+          "title": "COMO CHEGAMOS AO PROBLEMA DA PREVIDÊNCIA? (part. especialista Dr. Rios)",
           "imageUrl": null
         },
         {
-          "id": "https://www.youtube.com/watch?v=0jmJdvI6f-A",
+          "id": "https://www.youtube.com/watch?v=U2dxrdsR8ZM",
           "author": null,
           "description": "",
-          "link": "https://www.youtube.com/watch?v=0jmJdvI6f-A",
-          "publishedOn": "2026-03-26T17:20:00.000Z",
+          "link": "https://www.youtube.com/watch?v=U2dxrdsR8ZM",
+          "publishedOn": "2026-04-18T23:12:38.000Z",
           "wordCount": null,
-          "title": "Haptic Rendering - Computerphile",
-          "imageUrl": null
-        }
-      ]
-    },
-    {
-      "title": "DistroTube",
-      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCVls1GmFKf6WlTraIb_IaJg",
-      "siteUrl": "https://www.youtube.com/channel/UCVls1GmFKf6WlTraIb_IaJg",
-      "articles": [
-        {
-          "id": "https://www.youtube.com/watch?v=tdr-144Ondo",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=tdr-144Ondo",
-          "publishedOn": "2026-04-18T13:01:39.000Z",
-          "wordCount": null,
-          "title": "Is Artix Linux Just A Protest Distro?",
+          "title": "MENTIRAS SOBRE A 6x1? | REACT AO MAMÃE FALEI",
           "imageUrl": null
         },
         {
-          "id": "https://www.youtube.com/watch?v=ruUz6Y3_rIE",
+          "id": "https://www.youtube.com/watch?v=HNYRvwyMDws",
           "author": null,
           "description": "",
-          "link": "https://www.youtube.com/watch?v=ruUz6Y3_rIE",
-          "publishedOn": "2026-04-16T04:32:52.000Z",
+          "link": "https://www.youtube.com/watch?v=HNYRvwyMDws",
+          "publishedOn": "2026-04-18T12:11:48.000Z",
           "wordCount": null,
-          "title": "Hey, DT! Would You Use Snaps On Ubuntu?",
+          "title": "A APOSENTADORIA NO BRASIL TEM UM PROBLEMA (e ele é sério)",
           "imageUrl": null
         },
         {
-          "id": "https://www.youtube.com/watch?v=Bh4cQJ5aTUg",
+          "id": "https://www.youtube.com/watch?v=MXp6ENBvGMs",
           "author": null,
           "description": "",
-          "link": "https://www.youtube.com/watch?v=Bh4cQJ5aTUg",
-          "publishedOn": "2026-04-12T13:00:18.000Z",
+          "link": "https://www.youtube.com/watch?v=MXp6ENBvGMs",
+          "publishedOn": "2026-04-18T08:54:48.000Z",
           "wordCount": null,
-          "title": "CuerdOS Is Not Just Another Distro! (Or Is It?)",
+          "title": "INFLAÇÃO E O VALOR DO DINHEIRO - contra os mitos",
           "imageUrl": null
         },
         {
-          "id": "https://www.youtube.com/watch?v=soN2EVOh1O8",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=soN2EVOh1O8",
-          "publishedOn": "2026-04-09T13:01:45.000Z",
-          "wordCount": null,
-          "title": "Incognito Web Browsing Is NOT Private! (Well...Sort Of)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=GPcM_MKIfXs",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=GPcM_MKIfXs",
-          "publishedOn": "2026-04-06T13:00:27.000Z",
-          "wordCount": null,
-          "title": "Has A.I. Made The Web Obsolete?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=WZMf-fC45ak",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=WZMf-fC45ak",
-          "publishedOn": "2026-04-03T13:01:02.000Z",
-          "wordCount": null,
-          "title": "'date' - print or set date and time - Video Man Pages",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=G9bWGPlcZmI",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=G9bWGPlcZmI",
-          "publishedOn": "2026-04-02T15:15:09.000Z",
-          "wordCount": null,
-          "title": "'cal' - display a calendar - Video Man Pages",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=4am_n25wOuI",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=4am_n25wOuI",
-          "publishedOn": "2026-03-30T13:00:06.000Z",
-          "wordCount": null,
-          "title": "Fuzzel Is A Run Launcher For Wayland Desktops",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=K5J4LG4detc",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=K5J4LG4detc",
-          "publishedOn": "2026-03-27T12:45:49.000Z",
-          "wordCount": null,
-          "title": "Installation and First Look at LinuxHub Prime",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=onw826NsgWQ",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=onw826NsgWQ",
-          "publishedOn": "2026-03-24T13:01:29.000Z",
-          "wordCount": null,
-          "title": "Create Beautiful Websites With Hugo",
-          "imageUrl": null
-        }
-      ]
-    },
-    {
-      "title": "Traversy Media",
-      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC29ju8bIPH5as8OGnQzwJyA",
-      "siteUrl": "https://www.youtube.com/channel/UC29ju8bIPH5as8OGnQzwJyA",
-      "articles": [
-        {
-          "id": "https://www.youtube.com/watch?v=XCifkDC0yXA",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=XCifkDC0yXA",
-          "publishedOn": "2026-04-15T15:00:55.000Z",
-          "wordCount": null,
-          "title": "React Native Crash Course 2026 - Build a Complete Mobile App",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=Wr3Sw8KwznE",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=Wr3Sw8KwznE",
-          "publishedOn": "2026-04-06T15:00:52.000Z",
-          "wordCount": null,
-          "title": "A lot of you NEED to hear this",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=ChaQ_tZDBFg",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=ChaQ_tZDBFg",
-          "publishedOn": "2026-03-23T15:00:32.000Z",
-          "wordCount": null,
-          "title": "You Can Build The Craziest Things with Claudes Agent SDK",
-          "imageUrl": null
-        }
-      ]
-    },
-    {
-      "title": "Linus Tech Tips",
-      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCXuqSBlHAE6Xw-yeJA0Tunw",
-      "siteUrl": "https://www.youtube.com/channel/UCXuqSBlHAE6Xw-yeJA0Tunw",
-      "articles": [
-        {
-          "id": "https://www.youtube.com/shorts/dKSfadwDcLM",
+          "id": "https://www.youtube.com/shorts/zKCH5xeWeRk",
           "author": null,
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-          "link": "https://www.youtube.com/shorts/dKSfadwDcLM",
-          "publishedOn": "2026-04-19T19:22:49.000Z",
-          "wordCount": 2090,
-          "title": "How Many USB's Can You Plug In At Once?",
+          "link": "https://www.youtube.com/shorts/zKCH5xeWeRk",
+          "publishedOn": "2026-04-16T12:38:18.000Z",
+          "wordCount": 2132,
+          "title": "o que é PIB? #pib  #rascunhoseconomicos #macroeconomia #economia #economiabrasileira #brasil",
           "imageUrl": null
         },
         {
-          "id": "https://www.youtube.com/watch?v=cRZFWH6Cj6c",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=cRZFWH6Cj6c",
-          "publishedOn": "2026-04-19T17:34:54.000Z",
-          "wordCount": null,
-          "title": "I'm taking this for myself - Speediance Gym Monster 2 Showcase",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=UYpEQKCWfM4",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=UYpEQKCWfM4",
-          "publishedOn": "2026-04-18T16:56:00.000Z",
-          "wordCount": null,
-          "title": "I Finally got Sponsored by Red Bull",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=rYD0FumLCVM",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=rYD0FumLCVM",
-          "publishedOn": "2026-04-18T00:27:31.000Z",
-          "wordCount": null,
-          "title": "YouTube Killed Shorts - WAN Show April 17, 2026",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/shorts/vnY6tRr40NU",
+          "id": "https://www.youtube.com/shorts/-B-3kIvB-1k",
           "author": null,
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-          "link": "https://www.youtube.com/shorts/vnY6tRr40NU",
-          "publishedOn": "2026-04-16T20:01:37.000Z",
+          "link": "https://www.youtube.com/shorts/-B-3kIvB-1k",
+          "publishedOn": "2026-04-16T12:14:35.000Z",
+          "wordCount": 2079,
+          "title": "#dólar muito baixo é ruim? #economiabrasileira #cambio  #rascunhoseconomicos",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=3Ov-sIoc-5M",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=3Ov-sIoc-5M",
+          "publishedOn": "2026-04-16T11:03:30.000Z",
+          "wordCount": null,
+          "title": "Geopolítica… mas é economia",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/shorts/4cYUYPJyY04",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/4cYUYPJyY04",
+          "publishedOn": "2026-04-14T18:51:15.000Z",
           "wordCount": 2070,
-          "title": "1 sub = $1 PC Build",
+          "title": "O que é #basemonetária   #rascunhoseconomicos #m2  #macroeconomia",
           "imageUrl": null
         },
         {
-          "id": "https://www.youtube.com/watch?v=3Gd4GBkXqkg",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=3Gd4GBkXqkg",
-          "publishedOn": "2026-04-16T17:00:29.000Z",
-          "wordCount": null,
-          "title": "My $20,000 Loss is Your Gain",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/shorts/pzJ6CyYzGEU",
+          "id": "https://www.youtube.com/shorts/Q-_ozMt8Wqc",
           "author": null,
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-          "link": "https://www.youtube.com/shorts/pzJ6CyYzGEU",
-          "publishedOn": "2026-04-15T22:25:02.000Z",
-          "wordCount": 2096,
-          "title": "The Unreleased LG Rollable Phone",
+          "link": "https://www.youtube.com/shorts/Q-_ozMt8Wqc",
+          "publishedOn": "2026-04-14T18:12:27.000Z",
+          "wordCount": 2084,
+          "title": "#macroeconomia  #rascunhoseconomicos #economia #pib",
           "imageUrl": null
         },
         {
-          "id": "https://www.youtube.com/watch?v=ItaNKWg8TY0",
+          "id": "https://www.youtube.com/watch?v=5D-_wQdTawQ",
           "author": null,
           "description": "",
-          "link": "https://www.youtube.com/watch?v=ItaNKWg8TY0",
-          "publishedOn": "2026-04-14T17:44:18.000Z",
+          "link": "https://www.youtube.com/watch?v=5D-_wQdTawQ",
+          "publishedOn": "2026-04-14T10:58:01.000Z",
           "wordCount": null,
-          "title": "The Ultimate Mom’s Basement Upgrade - $5000 AMD Ultimate Tech Upgrade",
+          "title": "Dólar abaixo de 5 Reais: o Brasil NÃO aguenta",
           "imageUrl": null
         },
         {
-          "id": "https://www.youtube.com/watch?v=DN0IEQaJ7FI",
+          "id": "https://www.youtube.com/watch?v=vRHGTJtkPR4",
           "author": null,
           "description": "",
-          "link": "https://www.youtube.com/watch?v=DN0IEQaJ7FI",
-          "publishedOn": "2026-04-13T19:11:36.000Z",
+          "link": "https://www.youtube.com/watch?v=vRHGTJtkPR4",
+          "publishedOn": "2026-04-13T11:57:54.000Z",
           "wordCount": null,
-          "title": "He Tricked Me into Building Him a $20,000 PC",
+          "title": "O que BITCOIN e o PLANO COLLOR têm em COMUM?",
           "imageUrl": null
         },
         {
-          "id": "https://www.youtube.com/watch?v=Ww8XkiOFWIQ",
+          "id": "https://www.youtube.com/watch?v=2JEcKQ5nKTE",
           "author": null,
           "description": "",
-          "link": "https://www.youtube.com/watch?v=Ww8XkiOFWIQ",
-          "publishedOn": "2026-04-12T17:00:00.000Z",
+          "link": "https://www.youtube.com/watch?v=2JEcKQ5nKTE",
+          "publishedOn": "2026-04-12T22:55:13.000Z",
           "wordCount": null,
-          "title": "Copper Thieves Stole Our EV Charging Cables",
+          "title": "Conversa de economista: O BRASIL QUEBROU?",
           "imageUrl": null
         },
         {
-          "id": "https://www.youtube.com/watch?v=tZidcHqGpu4",
+          "id": "https://www.youtube.com/watch?v=QzB9WPIoaog",
           "author": null,
           "description": "",
-          "link": "https://www.youtube.com/watch?v=tZidcHqGpu4",
-          "publishedOn": "2026-04-11T16:59:51.000Z",
+          "link": "https://www.youtube.com/watch?v=QzB9WPIoaog",
+          "publishedOn": "2026-04-12T13:01:32.000Z",
           "wordCount": null,
-          "title": "We Chose the WRONG Monitors 5 Years Ago",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=SxV2J5wNOHA",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=SxV2J5wNOHA",
-          "publishedOn": "2026-04-11T04:45:26.000Z",
-          "wordCount": null,
-          "title": "I Love My Mac - WAN Show April 10, 2026",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/shorts/feg_GaIF-wE",
-          "author": null,
-          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-          "link": "https://www.youtube.com/shorts/feg_GaIF-wE",
-          "publishedOn": "2026-04-10T19:21:46.000Z",
-          "wordCount": 2076,
-          "title": "Why do we call it Spam?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=WxUBCrr4CdE",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=WxUBCrr4CdE",
-          "publishedOn": "2026-04-09T17:04:56.000Z",
-          "wordCount": null,
-          "title": "The Worst is Almost Over",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=3uG1hGXh5xU",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=3uG1hGXh5xU",
-          "publishedOn": "2026-04-08T17:32:45.000Z",
-          "wordCount": null,
-          "title": "Please Stop Buying the Wrong SSD",
+          "title": "COMO DESENVOLVER O BRASIL? (3 formas — explico em 18 MINUTOS)",
           "imageUrl": null
         }
       ]
     },
     {
-      "title": "Chrome for Developers",
-      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCnUYZLuoy1rq1aVMwx4aTzw",
-      "siteUrl": "https://www.youtube.com/channel/UCnUYZLuoy1rq1aVMwx4aTzw",
+      "title": "Breno Perrucho - Jovens de Negócios",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC6pkw1C4ha1cmU9aDJ8OxUw",
+      "siteUrl": "https://www.youtube.com/channel/UC6pkw1C4ha1cmU9aDJ8OxUw",
       "articles": [
         {
-          "id": "https://www.youtube.com/shorts/WufG1eBT0dU",
+          "id": "https://www.youtube.com/shorts/3vy7cmjgGus",
           "author": null,
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-          "link": "https://www.youtube.com/shorts/WufG1eBT0dU",
-          "publishedOn": "2026-04-16T18:07:41.000Z",
-          "wordCount": 2147,
-          "title": "What are evals and how they help test AI features",
+          "link": "https://www.youtube.com/shorts/3vy7cmjgGus",
+          "publishedOn": "2026-04-19T10:00:00.000Z",
+          "wordCount": 2025,
+          "title": "Quem vive melhor?",
           "imageUrl": null
         },
         {
-          "id": "https://www.youtube.com/shorts/hq1nZM3mohs",
+          "id": "https://www.youtube.com/shorts/lJKQ8EjcRwE",
           "author": null,
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-          "link": "https://www.youtube.com/shorts/hq1nZM3mohs",
-          "publishedOn": "2026-04-15T15:00:00.000Z",
-          "wordCount": 2102,
-          "title": "3 things you didn’t know about the Prompt API",
+          "link": "https://www.youtube.com/shorts/lJKQ8EjcRwE",
+          "publishedOn": "2026-04-16T23:00:00.000Z",
+          "wordCount": 2087,
+          "title": "Ganha R$20 mil por mês = pobre",
           "imageUrl": null
         },
         {
-          "id": "https://www.youtube.com/shorts/G2li2xagzfY",
-          "author": null,
-          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-          "link": "https://www.youtube.com/shorts/G2li2xagzfY",
-          "publishedOn": "2026-04-10T20:18:23.000Z",
-          "wordCount": 2101,
-          "title": "Meet our team's MVP lineup",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/shorts/Ve_LOtA3ghg",
-          "author": null,
-          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-          "link": "https://www.youtube.com/shorts/Ve_LOtA3ghg",
-          "publishedOn": "2026-04-06T14:37:42.000Z",
-          "wordCount": 2156,
-          "title": "Chrome DevTools 145+: stop guessing SPA performance",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=-KXwGGu23rc",
+          "id": "https://www.youtube.com/watch?v=ohaOfNQUD_0",
           "author": null,
           "description": "",
-          "link": "https://www.youtube.com/watch?v=-KXwGGu23rc",
-          "publishedOn": "2026-03-31T19:34:05.000Z",
+          "link": "https://www.youtube.com/watch?v=ohaOfNQUD_0",
+          "publishedOn": "2026-04-16T22:38:31.000Z",
           "wordCount": null,
-          "title": "What's new in Chrome DevTools 145-147",
+          "title": "Quanto dinheiro você precisa para não ser pobre no Brasil em 2026?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/shorts/Q97UD1sOXi8",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/Q97UD1sOXi8",
+          "publishedOn": "2026-04-11T13:18:45.000Z",
+          "wordCount": 2237,
+          "title": "Como uma civilização entra em colapso?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/shorts/FYS_yW1lBjc",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/FYS_yW1lBjc",
+          "publishedOn": "2026-04-08T20:04:40.000Z",
+          "wordCount": 2154,
+          "title": "A civilização mais RICA da antiguidade",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=VCJEmGdHNvo",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=VCJEmGdHNvo",
+          "publishedOn": "2026-04-07T23:51:16.000Z",
+          "wordCount": null,
+          "title": "Por que o Oriente Médio parou no tempo?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/shorts/b7VDMf-SNtg",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/b7VDMf-SNtg",
+          "publishedOn": "2026-04-01T19:52:53.000Z",
+          "wordCount": 2147,
+          "title": "Seus dados estão expostos",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=zmlCKQzByOM",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=zmlCKQzByOM",
+          "publishedOn": "2026-03-29T13:00:00.000Z",
+          "wordCount": null,
+          "title": "O dia que eu perdi R$200k investindo",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/shorts/AMOVzZir-2w",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/AMOVzZir-2w",
+          "publishedOn": "2026-03-27T09:30:00.000Z",
+          "wordCount": 2134,
+          "title": "O erro que pode quebrar o Bitcoin",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=s8Juvp0H2Cw",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=s8Juvp0H2Cw",
+          "publishedOn": "2026-03-26T23:43:01.000Z",
+          "wordCount": null,
+          "title": "COMPUTADORES QUÂNTICOS: INVESTIR EM BITCOIN Ainda Faz Sentido?",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "title": "Principia Matemática",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCVngl-zszbWdMcRht9GVrnQ",
+      "siteUrl": "https://www.youtube.com/channel/UCVngl-zszbWdMcRht9GVrnQ",
+      "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=a_nmq8qznLQ",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=a_nmq8qznLQ",
+          "publishedOn": "2026-04-16T21:00:01.000Z",
+          "wordCount": null,
+          "title": "O que é uma INTEGRAL? (aprenda finalmente e veja de onde ela surge)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=-RdvM3J9DpA",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=-RdvM3J9DpA",
+          "publishedOn": "2026-04-12T19:00:00.000Z",
+          "wordCount": null,
+          "title": "O que é uma derivada? (aprenda finalmente)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=Fj-Gbz54va0",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Fj-Gbz54va0",
+          "publishedOn": "2026-04-09T21:00:27.000Z",
+          "wordCount": null,
+          "title": "LIMITES: você nunca entendeu isso (até agora)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=m3aKmUk4QLw",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=m3aKmUk4QLw",
+          "publishedOn": "2026-04-04T19:00:41.000Z",
+          "wordCount": null,
+          "title": "O que são os números reais de verdade? (Por que a reta real não tem buracos)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=Pk4pBPAY_sc",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Pk4pBPAY_sc",
+          "publishedOn": "2026-03-28T19:00:57.000Z",
+          "wordCount": null,
+          "title": "O que é Cálculo, afinal?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=M0gBJRtkOOY",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=M0gBJRtkOOY",
+          "publishedOn": "2026-03-25T21:00:29.000Z",
+          "wordCount": null,
+          "title": "Provando que 𝝅=3 (duvido você achar o erro)",
           "imageUrl": null
         }
       ]
