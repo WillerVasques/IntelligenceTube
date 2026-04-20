@@ -12,7 +12,7 @@ export const SYSTEM_STATIC_DIR = "bin/system-static";
 export const SYSTEM_TEMPLATE_DIR = "bin/system-templates";
 
 /** Build output folder, also the root of the website */
-export const PUBLIC_ROOT_DIR = "public";
+export const PUBLIC_ROOT_DIR = "docs";
 
 export const CACHE_FILENAME = "cache.json";
 export const CONFIG_FILENAME = "osmosfeed.yaml";
