@@ -26869,8 +26869,8 @@ var ENTRY_DIR2 = import_path3.default.dirname(((_a2 = require == null ? void 0 :
 var USER_TEMPLATE_DIR = "includes";
 var USER_SNIPPET_DIR = "includes";
 var USER_STATIC_DIR = "static";
-var SYSTEM_STATIC_DIR = "system-static";
-var SYSTEM_TEMPLATE_DIR = "system-templates";
+var SYSTEM_STATIC_DIR = "bin/system-static";
+var SYSTEM_TEMPLATE_DIR = "bin/system-templates";
 var PUBLIC_ROOT_DIR = "docs";
 var CACHE_FILENAME = "cache.json";
 var CONFIG_FILENAME = "osmosfeed.yaml";
