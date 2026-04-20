@@ -17,7 +17,7 @@ siteTitle: "YouTube Intelligence Dashboard"
 # `timezone`: Especifique seu fuso horário local para que o servidor possa agrupar o conteúdo por dia da semana
 # Encontre o seu na coluna "Nome do banco de dados TZ" desta página: https://en.wikipedia.org/wiki/List_of_tz_database_time_zones#List
 # Exemplos: America/Los_Angeles, America/New_York, Asia/Shanghai, Asia/Tokyo
-timezone: null
+timezone: America/Fortaleza
 
 # `cacheMaxDays` Número máximo de dias para manter o conteúdo do feed em cache. Um valor muito alto pode aumentar o tempo de carregamento inicial do site. (opcional)
 cacheMaxDays: 30
