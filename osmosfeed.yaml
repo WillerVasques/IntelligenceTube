@@ -4,12 +4,11 @@ cacheUrl: https://willervasques.github.io/IntelligenceTube/cache.json
 # `sources`: Uma lista de assinaturas RSS. (obrigatório)
 sources:
   # `href`: Uma URL que retorna conteúdo nos formatos RSS 1.0, RSS 2.0 ou Atom. (obrigatório para cada fonte)
-  - href: https://www.youtube.com/feeds/videos.xml?channel_id=UCsUalyRg43M8D60mtHe6YcA
-  - href: https://www.youtube.com/feeds/videos.xml?channel_id=UC9-y-6csu5WGm29I7JiwpnA
-  - href: https://www.youtube.com/feeds/videos.xml?channel_id=UCVls1GmFKf6WlTraIb_IaJg
-  - href: https://www.youtube.com/feeds/videos.xml?channel_id=UC29ju8bIPH5as8OGnQzwJyA
-  - href: https://www.youtube.com/feeds/videos.xml?channel_id=UCXuqSBlHAE6Xw-yeJA0Tunw
-  - href: https://www.youtube.com/feeds/videos.xml?channel_id=UCnUYZLuoy1rq1aVMwx4aTzw
+  - href: https://www.youtube.com/feeds/videos.xml?channel_id=UCpOSu4F9cqSjh1OgbmOT5cQ
+  - href: https://www.youtube.com/feeds/videos.xml?channel_id=UCyTpvFRG2v9kuzJZwUZ8M2Q
+  - href: https://www.youtube.com/feeds/videos.xml?channel_id=UC6pkw1C4ha1cmU9aDJ8OxUw
+  - href: https://www.youtube.com/feeds/videos.xml?channel_id=UCVngl-zszbWdMcRht9GVrnQ
+
 
 # `siteTitle`: Título a ser usado na aba do navegador e na saída do feed legível por máquina. (opcional)
 siteTitle: "YouTube Intelligence Dashboard"
