@@ -8,18 +8,20 @@ on:
     # Adjust refresh schedule here. By default, it runs once per day.
     # Syntax reference: https://docs.github.com/en/actions/reference/events-that-trigger-workflows#schedule
     # Recommended tool: https://crontab.guru/
-    - cron: "25 7 * * *"
-    - cron: "25 19 * * *"
+    - cron: "25 7 * * *" # 04:25 BRT (07:25 UTC)
+    - cron: "25 19 * * *" # 016:25 BRT (19:25 UTC)
 jobs:
   build:
     runs-on: ubuntu-latest
+    env:
+      FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
 
     steps:
       - uses: actions/checkout@v4
       - name: Setup Node.js environment
         uses: actions/setup-node@v4
         with:
-          node-version: "20"
+          node-version: "24"
       - name: Install dependencies
         run: npm i
       - name: Build the feed
