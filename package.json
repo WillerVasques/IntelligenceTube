@@ -4,7 +4,7 @@
   "version": "0.0.1",
   "description": "Monorepo root",
   "directories": {
-    "public": "public"
+    "public": "docs"
   },
   "scripts": {
     "start": "npm run dev -w packages/cli -w packages/sandbox",
