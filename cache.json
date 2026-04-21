@@ -1,0 +1,443 @@
+{
+  "sources": [
+    {
+      "title": "Área Tech Brasil",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCpOSu4F9cqSjh1OgbmOT5cQ",
+      "siteUrl": "https://www.youtube.com/channel/UCpOSu4F9cqSjh1OgbmOT5cQ",
+      "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=Xsb-rEZJmsY",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Xsb-rEZJmsY",
+          "publishedOn": "2026-04-16T22:00:41.000Z",
+          "wordCount": null,
+          "title": "Programação em 2026... Sendo brutalmente Honesto",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=lPD9WrGNxdM",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=lPD9WrGNxdM",
+          "publishedOn": "2026-04-09T22:00:57.000Z",
+          "wordCount": null,
+          "title": "POV: Você escolheu ser programador no Brasil",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=3RY2bv9G_j8",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=3RY2bv9G_j8",
+          "publishedOn": "2026-04-07T22:00:05.000Z",
+          "wordCount": null,
+          "title": "Por que os Programadores estão ABANDONANDO essa área?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=39a4F0P5fJ0",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=39a4F0P5fJ0",
+          "publishedOn": "2026-04-02T22:00:04.000Z",
+          "wordCount": null,
+          "title": "Ainda VALE A PENA aprender PROGRAMAÇÃO em 2026?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=nO--3BQNgUA",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=nO--3BQNgUA",
+          "publishedOn": "2026-03-31T22:00:00.000Z",
+          "wordCount": null,
+          "title": "Você [NÃO] deveria Aprender Programação em 2026",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=0trN6d1jA7Q",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=0trN6d1jA7Q",
+          "publishedOn": "2026-03-26T22:00:00.000Z",
+          "wordCount": null,
+          "title": "Como aprender Programação sozinho (sem ter talento)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=G-Jm8rooTVA",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=G-Jm8rooTVA",
+          "publishedOn": "2026-03-24T22:00:26.000Z",
+          "wordCount": null,
+          "title": "Método infalível para Aprender Programação sozinho!",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "title": "Rascunhos Econômicos",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCyTpvFRG2v9kuzJZwUZ8M2Q",
+      "siteUrl": "https://www.youtube.com/channel/UCyTpvFRG2v9kuzJZwUZ8M2Q",
+      "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=GDagiX_Bjv8",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=GDagiX_Bjv8",
+          "publishedOn": "2026-04-21T13:54:12.000Z",
+          "wordCount": null,
+          "title": "RICOS DEVERIAM PAGAR MAIS IMPOSTOS? AO VIVO",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=4_I8h8KdKCA",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=4_I8h8KdKCA",
+          "publishedOn": "2026-04-21T11:02:53.000Z",
+          "wordCount": null,
+          "title": "FELICIDADE, SORTE e RIQUEZA — entrevista com Robert H. Frank",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=cV8Bv6wLtaM",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=cV8Bv6wLtaM",
+          "publishedOn": "2026-04-20T13:35:36.000Z",
+          "wordCount": null,
+          "title": "ÚLTIMA CHANCE",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=OKE3g-f5bMk",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=OKE3g-f5bMk",
+          "publishedOn": "2026-04-20T11:09:53.000Z",
+          "wordCount": null,
+          "title": "ECONOMIA SEM FILTRO — RESPONDO QUALQUER PERGUNTA AO VIVO",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=6t4_8_UUr6E",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=6t4_8_UUr6E",
+          "publishedOn": "2026-04-19T12:50:35.000Z",
+          "wordCount": null,
+          "title": "COMO CHEGAMOS AO PROBLEMA DA PREVIDÊNCIA? (part. especialista Dr. Rios)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=U2dxrdsR8ZM",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=U2dxrdsR8ZM",
+          "publishedOn": "2026-04-18T23:12:38.000Z",
+          "wordCount": null,
+          "title": "MENTIRAS SOBRE A 6x1? | REACT AO MAMÃE FALEI",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=HNYRvwyMDws",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=HNYRvwyMDws",
+          "publishedOn": "2026-04-18T12:11:48.000Z",
+          "wordCount": null,
+          "title": "A APOSENTADORIA NO BRASIL TEM UM PROBLEMA (e ele é sério)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=MXp6ENBvGMs",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=MXp6ENBvGMs",
+          "publishedOn": "2026-04-18T08:54:48.000Z",
+          "wordCount": null,
+          "title": "INFLAÇÃO E O VALOR DO DINHEIRO - contra os mitos",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/shorts/zKCH5xeWeRk",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/zKCH5xeWeRk",
+          "publishedOn": "2026-04-16T12:38:18.000Z",
+          "wordCount": 2132,
+          "title": "o que é PIB? #pib  #rascunhoseconomicos #macroeconomia #economia #economiabrasileira #brasil",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/shorts/-B-3kIvB-1k",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/-B-3kIvB-1k",
+          "publishedOn": "2026-04-16T12:14:35.000Z",
+          "wordCount": 2079,
+          "title": "#dólar muito baixo é ruim? #economiabrasileira #cambio  #rascunhoseconomicos",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=3Ov-sIoc-5M",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=3Ov-sIoc-5M",
+          "publishedOn": "2026-04-16T11:03:30.000Z",
+          "wordCount": null,
+          "title": "Geopolítica… mas é economia",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/shorts/4cYUYPJyY04",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/4cYUYPJyY04",
+          "publishedOn": "2026-04-14T18:51:15.000Z",
+          "wordCount": 2070,
+          "title": "O que é #basemonetária   #rascunhoseconomicos #m2  #macroeconomia",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/shorts/Q-_ozMt8Wqc",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/Q-_ozMt8Wqc",
+          "publishedOn": "2026-04-14T18:12:27.000Z",
+          "wordCount": 2084,
+          "title": "#macroeconomia  #rascunhoseconomicos #economia #pib",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=5D-_wQdTawQ",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=5D-_wQdTawQ",
+          "publishedOn": "2026-04-14T10:58:01.000Z",
+          "wordCount": null,
+          "title": "Dólar abaixo de 5 Reais: o Brasil NÃO aguenta",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=vRHGTJtkPR4",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=vRHGTJtkPR4",
+          "publishedOn": "2026-04-13T11:57:54.000Z",
+          "wordCount": null,
+          "title": "O que BITCOIN e o PLANO COLLOR têm em COMUM?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=2JEcKQ5nKTE",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=2JEcKQ5nKTE",
+          "publishedOn": "2026-04-12T22:55:13.000Z",
+          "wordCount": null,
+          "title": "Conversa de economista: O BRASIL QUEBROU?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=QzB9WPIoaog",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=QzB9WPIoaog",
+          "publishedOn": "2026-04-12T13:01:32.000Z",
+          "wordCount": null,
+          "title": "COMO DESENVOLVER O BRASIL? (3 formas — explico em 18 MINUTOS)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=NvcDHQsTnro",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=NvcDHQsTnro",
+          "publishedOn": "2026-04-11T12:20:40.000Z",
+          "wordCount": null,
+          "title": "COMPRAR OU ALUGAR SUA CASA? Pergunta está errada...",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "title": "Breno Perrucho - Jovens de Negócios",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC6pkw1C4ha1cmU9aDJ8OxUw",
+      "siteUrl": "https://www.youtube.com/channel/UC6pkw1C4ha1cmU9aDJ8OxUw",
+      "articles": [
+        {
+          "id": "https://www.youtube.com/shorts/3vy7cmjgGus",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/3vy7cmjgGus",
+          "publishedOn": "2026-04-19T10:00:00.000Z",
+          "wordCount": 2025,
+          "title": "Quem vive melhor?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/shorts/lJKQ8EjcRwE",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/lJKQ8EjcRwE",
+          "publishedOn": "2026-04-16T23:00:00.000Z",
+          "wordCount": 2087,
+          "title": "Ganha R$20 mil por mês = pobre",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=ohaOfNQUD_0",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=ohaOfNQUD_0",
+          "publishedOn": "2026-04-16T22:38:31.000Z",
+          "wordCount": null,
+          "title": "Quanto dinheiro você precisa para não ser pobre no Brasil em 2026?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/shorts/Q97UD1sOXi8",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/Q97UD1sOXi8",
+          "publishedOn": "2026-04-11T13:18:45.000Z",
+          "wordCount": 2237,
+          "title": "Como uma civilização entra em colapso?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/shorts/FYS_yW1lBjc",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/FYS_yW1lBjc",
+          "publishedOn": "2026-04-08T20:04:40.000Z",
+          "wordCount": 2154,
+          "title": "A civilização mais RICA da antiguidade",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=VCJEmGdHNvo",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=VCJEmGdHNvo",
+          "publishedOn": "2026-04-07T23:51:16.000Z",
+          "wordCount": null,
+          "title": "Por que o Oriente Médio parou no tempo?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/shorts/b7VDMf-SNtg",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/b7VDMf-SNtg",
+          "publishedOn": "2026-04-01T19:52:53.000Z",
+          "wordCount": 2147,
+          "title": "Seus dados estão expostos",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=zmlCKQzByOM",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=zmlCKQzByOM",
+          "publishedOn": "2026-03-29T13:00:00.000Z",
+          "wordCount": null,
+          "title": "O dia que eu perdi R$200k investindo",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/shorts/AMOVzZir-2w",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/AMOVzZir-2w",
+          "publishedOn": "2026-03-27T09:30:00.000Z",
+          "wordCount": 2134,
+          "title": "O erro que pode quebrar o Bitcoin",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=s8Juvp0H2Cw",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=s8Juvp0H2Cw",
+          "publishedOn": "2026-03-26T23:43:01.000Z",
+          "wordCount": null,
+          "title": "COMPUTADORES QUÂNTICOS: INVESTIR EM BITCOIN Ainda Faz Sentido?",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "title": "Principia Matemática",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCVngl-zszbWdMcRht9GVrnQ",
+      "siteUrl": "https://www.youtube.com/channel/UCVngl-zszbWdMcRht9GVrnQ",
+      "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=a_nmq8qznLQ",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=a_nmq8qznLQ",
+          "publishedOn": "2026-04-16T21:00:01.000Z",
+          "wordCount": null,
+          "title": "O que é uma INTEGRAL? (aprenda finalmente e veja de onde ela surge)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=-RdvM3J9DpA",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=-RdvM3J9DpA",
+          "publishedOn": "2026-04-12T19:00:00.000Z",
+          "wordCount": null,
+          "title": "O que é uma derivada? (aprenda finalmente)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=Fj-Gbz54va0",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Fj-Gbz54va0",
+          "publishedOn": "2026-04-09T21:00:27.000Z",
+          "wordCount": null,
+          "title": "LIMITES: você nunca entendeu isso (até agora)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=m3aKmUk4QLw",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=m3aKmUk4QLw",
+          "publishedOn": "2026-04-04T19:00:41.000Z",
+          "wordCount": null,
+          "title": "O que são os números reais de verdade? (Por que a reta real não tem buracos)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=Pk4pBPAY_sc",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Pk4pBPAY_sc",
+          "publishedOn": "2026-03-28T19:00:57.000Z",
+          "wordCount": null,
+          "title": "O que é Cálculo, afinal?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=M0gBJRtkOOY",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=M0gBJRtkOOY",
+          "publishedOn": "2026-03-25T21:00:29.000Z",
+          "wordCount": null,
+          "title": "Provando que 𝝅=3 (duvido você achar o erro)",
+          "imageUrl": null
+        }
+      ]
+    }
+  ],
+  "cliVersion": "1.15.1"
+}
