@@ -1,3 +1,4 @@
+import https from "https"; // FILTRO DE YOUTUBE SHORTS
 import cheerio from "cheerio";
 import { performance } from "perf_hooks";
 import Parser from "rss-parser";
@@ -96,6 +97,37 @@ async function enrichInternal(enrichInput: EnrichInput): Promise<EnrichedSource 
     const link = item.link;
 
     if (!link) return null;
+
+    // --- INÍCIO: FILTRO DE YOUTUBE SHORTS ---
+    if (link.includes("youtube.com") || link.includes("youtu.be")) {
+      // Prevenção para caso o YouTube adote a URL explícita no RSS no futuro
+      if (link.includes("/shorts/")) {
+        console.log(`[enrich] YouTube Short ignorado: ${title}`);
+        return null;
+      }
+
+      // Extrai o ID do vídeo do link tradicional
+      const videoIdMatch = link.match(/(?:v=|youtu\.be\/)([^&?]+)/);
+      if (videoIdMatch && videoIdMatch[1]) {
+        const videoId = videoIdMatch[1];
+        
+        // Bate na porta do YouTube apenas pedindo os cabeçalhos para testar a existência do Short
+        const isShort = await new Promise<boolean>((resolve) => {
+          https.request(
+            `https://www.youtube.com/shorts/${videoId}`,
+            { method: "HEAD" },
+            (res) => resolve(res.statusCode === 200)
+          ).on('error', () => resolve(false)).end();
+        });
+
+        // Se retornar Status 200, é um Short! Retornamos null para jogá-lo no lixo.
+        if (isShort) {
+          console.log(`[enrich] YouTube Short ignorado: ${title}`);
+          return null; 
+        }
+      }
+    }
+    // --- FIM: FILTRO DE YOUTUBE SHORTS ---
 
     // In general, treat feed as source of truth and enriched content as fallback
     const enrichedItem = isItemEnrichable(item) ? await enrichItem(link) : unenrichableItem;
