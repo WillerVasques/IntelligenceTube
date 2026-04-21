@@ -83,6 +83,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCyTpvFRG2v9kuzJZwUZ8M2Q",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=4_I8h8KdKCA",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=4_I8h8KdKCA",
+          "publishedOn": "2026-04-21T11:02:53.000Z",
+          "wordCount": null,
+          "title": "FELICIDADE, SORTE e RIQUEZA — entrevista com Robert H. Frank",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=cV8Bv6wLtaM",
           "author": null,
           "description": "",
