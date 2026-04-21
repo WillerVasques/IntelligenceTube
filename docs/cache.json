@@ -83,6 +83,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCyTpvFRG2v9kuzJZwUZ8M2Q",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=GDagiX_Bjv8",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=GDagiX_Bjv8",
+          "publishedOn": "2026-04-21T13:54:12.000Z",
+          "wordCount": null,
+          "title": "RICOS DEVERIAM PAGAR MAIS IMPOSTOS? AO VIVO",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=4_I8h8KdKCA",
           "author": null,
           "description": "",
