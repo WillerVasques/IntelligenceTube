@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCpOSu4F9cqSjh1OgbmOT5cQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=MNdZ6v2NmrM",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=MNdZ6v2NmrM",
+          "publishedOn": "2026-04-21T22:00:26.000Z",
+          "wordCount": null,
+          "title": "Você resolveu ser Programador em Moçambique",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=Xsb-rEZJmsY",
           "author": null,
           "description": "",
@@ -76,6 +86,12 @@
           "imageUrl": null
         }
       ]
+    },
+    {
+      "title": "A Beleza dos Dados",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCnpitTIp52GpOC8LaNnWefg",
+      "siteUrl": "https://www.youtube.com/channel/UCnpitTIp52GpOC8LaNnWefg",
+      "articles": []
     },
     {
       "title": "Principia Matemática",
