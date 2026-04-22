@@ -5,8 +5,7 @@ cacheUrl: https://willervasques.github.io/IntelligenceTube/cache.json
 sources:
   # `href`: Uma URL que retorna conteúdo nos formatos RSS 1.0, RSS 2.0 ou Atom. (obrigatório para cada fonte)
   - href: https://www.youtube.com/feeds/videos.xml?channel_id=UCpOSu4F9cqSjh1OgbmOT5cQ
-  - href: https://www.youtube.com/feeds/videos.xml?channel_id=UCyTpvFRG2v9kuzJZwUZ8M2Q
-  - href: https://www.youtube.com/feeds/videos.xml?channel_id=UC6pkw1C4ha1cmU9aDJ8OxUw
+  - href: https://www.youtube.com/feeds/videos.xml?channel_id=UCnpitTIp52GpOC8LaNnWefg
   - href: https://www.youtube.com/feeds/videos.xml?channel_id=UCVngl-zszbWdMcRht9GVrnQ
 
 
