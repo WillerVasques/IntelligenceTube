@@ -99,6 +99,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCVngl-zszbWdMcRht9GVrnQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=fzZKwu3zrGM",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=fzZKwu3zrGM",
+          "publishedOn": "2026-04-22T21:00:13.000Z",
+          "wordCount": null,
+          "title": "Razão e Proporção (aprenda sem decorar!) - Live 08",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=a_nmq8qznLQ",
           "author": null,
           "description": "",
