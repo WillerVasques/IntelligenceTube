@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCpOSu4F9cqSjh1OgbmOT5cQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=EsMQdeciIuA",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=EsMQdeciIuA",
+          "publishedOn": "2026-04-23T22:00:15.000Z",
+          "wordCount": null,
+          "title": "Aprender programação só parece difícil porque te ensinaram errado",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=MNdZ6v2NmrM",
           "author": null,
           "description": "",
