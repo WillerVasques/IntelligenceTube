@@ -99,6 +99,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCVngl-zszbWdMcRht9GVrnQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=jf_YtCr9yVY",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=jf_YtCr9yVY",
+          "publishedOn": "2026-04-24T21:00:59.000Z",
+          "wordCount": null,
+          "title": "Por que a área do círculo é 𝝅𝒓²? Usando cálculo!",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=fzZKwu3zrGM",
           "author": null,
           "description": "",
