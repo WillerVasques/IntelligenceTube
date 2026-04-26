@@ -89,6 +89,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCVngl-zszbWdMcRht9GVrnQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=RbM2d4W9TW4",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=RbM2d4W9TW4",
+          "publishedOn": "2026-04-26T17:00:36.000Z",
+          "wordCount": null,
+          "title": "Cálculo NÃO é difícil. Você só aprendeu matemática errado.",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=jf_YtCr9yVY",
           "author": null,
           "description": "",
