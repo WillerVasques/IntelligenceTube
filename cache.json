@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCpOSu4F9cqSjh1OgbmOT5cQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=lAaMea84LLg",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=lAaMea84LLg",
+          "publishedOn": "2026-04-28T22:00:55.000Z",
+          "wordCount": null,
+          "title": "Java ou Python: qual escolher para começar em 2026",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=EsMQdeciIuA",
           "author": null,
           "description": "",
