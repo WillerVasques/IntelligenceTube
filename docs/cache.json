@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCpOSu4F9cqSjh1OgbmOT5cQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=cXhbio4e4MQ",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=cXhbio4e4MQ",
+          "publishedOn": "2026-04-30T22:00:48.000Z",
+          "wordCount": null,
+          "title": "Como eu passei de INICIANTE para JÚNIOR em programação (4 dicas que funcionam)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=lAaMea84LLg",
           "author": null,
           "description": "",
