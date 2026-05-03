@@ -89,6 +89,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCVngl-zszbWdMcRht9GVrnQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=O3Vsa323q8k",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=O3Vsa323q8k",
+          "publishedOn": "2026-05-02T19:00:16.000Z",
+          "wordCount": null,
+          "title": "A Fórmula da Esfera Sem Usar Cálculo",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=-pNBxNq1jQk",
           "author": null,
           "description": "",
