@@ -89,6 +89,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCVngl-zszbWdMcRht9GVrnQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=9AZ2RO0KLvI",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=9AZ2RO0KLvI",
+          "publishedOn": "2026-05-04T13:39:04.000Z",
+          "wordCount": null,
+          "title": "Conjuntos do ZERO: aprenda sem decorar - Live 10",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=O3Vsa323q8k",
           "author": null,
           "description": "",
