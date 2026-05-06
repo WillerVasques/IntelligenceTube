@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCpOSu4F9cqSjh1OgbmOT5cQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=C-fnaDVcpYw",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=C-fnaDVcpYw",
+          "publishedOn": "2026-05-05T22:00:13.000Z",
+          "wordCount": null,
+          "title": "COMO FICAR BIZARRAMENTE BOM EM JAVA EM 2026",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=cXhbio4e4MQ",
           "author": null,
           "description": "",
