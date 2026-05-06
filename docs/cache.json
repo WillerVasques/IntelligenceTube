@@ -99,6 +99,36 @@
       "siteUrl": "https://www.youtube.com/channel/UCVngl-zszbWdMcRht9GVrnQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=spVMK83qLiI",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=spVMK83qLiI",
+          "publishedOn": "2026-05-06T15:53:06.000Z",
+          "wordCount": null,
+          "title": "Função Quadrática: Aprenda FINALMENTE! - Live 13",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=-k7w276nJao",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=-k7w276nJao",
+          "publishedOn": "2026-05-06T15:51:03.000Z",
+          "wordCount": null,
+          "title": "Função Afim: Domine esse assunto! - Live 12",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=3KSAtx7khWE",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=3KSAtx7khWE",
+          "publishedOn": "2026-05-06T15:47:18.000Z",
+          "wordCount": null,
+          "title": "Função do ZERO: aprenda sem decorar - Live 11",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=9AZ2RO0KLvI",
           "author": null,
           "description": "",
