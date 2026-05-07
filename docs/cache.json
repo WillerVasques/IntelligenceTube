@@ -99,6 +99,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCVngl-zszbWdMcRht9GVrnQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=C1FH7FUb-ig",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=C1FH7FUb-ig",
+          "publishedOn": "2026-05-06T21:00:23.000Z",
+          "wordCount": null,
+          "title": "Ninguém vê o triângulo escondido nessa figura",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=spVMK83qLiI",
           "author": null,
           "description": "",
