@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCpOSu4F9cqSjh1OgbmOT5cQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=Q-mGFewMY7o",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Q-mGFewMY7o",
+          "publishedOn": "2026-05-07T22:00:28.000Z",
+          "wordCount": null,
+          "title": "Programador Iniciante: Foque NISSO se quiser emprego em 2026",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=C-fnaDVcpYw",
           "author": null,
           "description": "",
