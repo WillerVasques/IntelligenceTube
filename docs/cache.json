@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCpOSu4F9cqSjh1OgbmOT5cQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=cLEVttM2hKE",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=cLEVttM2hKE",
+          "publishedOn": "2026-05-14T22:00:43.000Z",
+          "wordCount": null,
+          "title": "Sendo brutalmente honesto sobre aprender Java em 2026",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=PxOfLYRAm78",
           "author": null,
           "description": "",
