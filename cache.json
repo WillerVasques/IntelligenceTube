@@ -99,6 +99,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCVngl-zszbWdMcRht9GVrnQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=1SJQirqkc0k",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=1SJQirqkc0k",
+          "publishedOn": "2026-05-16T20:53:33.000Z",
+          "wordCount": null,
+          "title": "O medo de errar está te impedindo de aprender matemática",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=WKm_BJC0Ih0",
           "author": null,
           "description": "",
