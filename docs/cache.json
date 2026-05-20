@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCpOSu4F9cqSjh1OgbmOT5cQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=9EYrQncDziA",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=9EYrQncDziA",
+          "publishedOn": "2026-05-19T22:00:34.000Z",
+          "wordCount": null,
+          "title": "COMO FICAR BIZARRAMENTE BOM EM PROGRAMAÇÃO",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=cLEVttM2hKE",
           "author": null,
           "description": "",
