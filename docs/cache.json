@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCpOSu4F9cqSjh1OgbmOT5cQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=k6KjGgmi5q8",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=k6KjGgmi5q8",
+          "publishedOn": "2026-05-21T22:00:02.000Z",
+          "wordCount": null,
+          "title": "O problema de aprender Programação em 2026",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=9EYrQncDziA",
           "author": null,
           "description": "",
