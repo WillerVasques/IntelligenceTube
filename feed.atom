@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://willervasques.github.io/IntelligenceTube/index.html</id>
     <title>YouTube Intelligence Dashboard</title>
-    <updated>2026-05-26T19:53:41.933Z</updated>
+    <updated>2026-05-27T08:59:35.857Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://willervasques.github.io/IntelligenceTube/index.html"/>
     <link rel="self" href="https://willervasques.github.io/IntelligenceTube/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Eu vou te ensinar JAVA em 24 minutos (é sério)]]></title>
+        <id>https://www.youtube.com/watch?v=XgH5YFDMrn8</id>
+        <link href="https://www.youtube.com/watch?v=XgH5YFDMrn8"/>
+        <updated>2026-05-26T22:00:12.000Z</updated>
+        <author>
+            <name>Área Tech Brasil</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[O problema de aprender Programação em 2026]]></title>
         <id>https://www.youtube.com/watch?v=k6KjGgmi5q8</id>
@@ -166,15 +175,6 @@
         <updated>2026-04-28T22:00:55.000Z</updated>
         <author>
             <name>Área Tech Brasil</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Divisibilidade do Zero: múltiplos, divisores, primos, MMC e MDC - Live 09]]></title>
-        <id>https://www.youtube.com/watch?v=9mZGO4kKuow</id>
-        <link href="https://www.youtube.com/watch?v=9mZGO4kKuow"/>
-        <updated>2026-04-27T13:54:56.000Z</updated>
-        <author>
-            <name>Principia Matemática</name>
         </author>
     </entry>
 </feed>
