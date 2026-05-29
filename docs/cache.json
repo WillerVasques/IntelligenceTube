@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCpOSu4F9cqSjh1OgbmOT5cQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=Y1MBpQ_vVO8",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Y1MBpQ_vVO8",
+          "publishedOn": "2026-05-28T22:00:01.000Z",
+          "wordCount": null,
+          "title": "POV: Você escolheu Programação em vez de Uber",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=XgH5YFDMrn8",
           "author": null,
           "description": "",

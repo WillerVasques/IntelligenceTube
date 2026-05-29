@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://willervasques.github.io/IntelligenceTube/index.html</id>
     <title>YouTube Intelligence Dashboard</title>
-    <updated>2026-05-28T20:04:16.301Z</updated>
+    <updated>2026-05-29T02:04:22.607Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://willervasques.github.io/IntelligenceTube/index.html"/>
     <link rel="self" href="https://willervasques.github.io/IntelligenceTube/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[POV: Você escolheu Programação em vez de Uber]]></title>
+        <id>https://www.youtube.com/watch?v=Y1MBpQ_vVO8</id>
+        <link href="https://www.youtube.com/watch?v=Y1MBpQ_vVO8"/>
+        <updated>2026-05-28T22:00:01.000Z</updated>
+        <author>
+            <name>Área Tech Brasil</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Eu vou te ensinar JAVA em 24 minutos (é sério)]]></title>
         <id>https://www.youtube.com/watch?v=XgH5YFDMrn8</id>
