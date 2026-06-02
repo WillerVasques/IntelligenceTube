@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCpOSu4F9cqSjh1OgbmOT5cQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=DcY8eFonp7o",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=DcY8eFonp7o",
+          "publishedOn": "2026-06-01T22:00:36.000Z",
+          "wordCount": null,
+          "title": "A Única Forma Real de ser Programador em 2026 | Código Diário 01",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=Y1MBpQ_vVO8",
           "author": null,
           "description": "",
