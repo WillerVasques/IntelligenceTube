@@ -109,6 +109,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCVngl-zszbWdMcRht9GVrnQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=fKkXLHUinW4",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=fKkXLHUinW4",
+          "publishedOn": "2026-06-02T00:47:11.000Z",
+          "wordCount": null,
+          "title": "Geometria do ZERO (aula obrigatória!) - Live 14",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=1SJQirqkc0k",
           "author": null,
           "description": "",
