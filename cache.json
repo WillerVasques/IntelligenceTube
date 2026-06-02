@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCpOSu4F9cqSjh1OgbmOT5cQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=DcY8eFonp7o",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=DcY8eFonp7o",
+          "publishedOn": "2026-06-01T22:00:36.000Z",
+          "wordCount": null,
+          "title": "A Única Forma Real de ser Programador em 2026 | Código Diário 01",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=Y1MBpQ_vVO8",
           "author": null,
           "description": "",
@@ -98,6 +108,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCVngl-zszbWdMcRht9GVrnQ",
       "siteUrl": "https://www.youtube.com/channel/UCVngl-zszbWdMcRht9GVrnQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=fKkXLHUinW4",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=fKkXLHUinW4",
+          "publishedOn": "2026-06-02T00:47:11.000Z",
+          "wordCount": null,
+          "title": "Geometria do ZERO (aula obrigatória!) - Live 14",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=1SJQirqkc0k",
           "author": null,
