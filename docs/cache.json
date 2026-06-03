@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCpOSu4F9cqSjh1OgbmOT5cQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=4XQMA1aDAS8",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=4XQMA1aDAS8",
+          "publishedOn": "2026-06-02T22:00:36.000Z",
+          "wordCount": null,
+          "title": "As empresas estão recontratando Devs... e o motivo é bizarro!",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=DcY8eFonp7o",
           "author": null,
           "description": "",
