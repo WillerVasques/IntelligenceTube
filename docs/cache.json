@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCpOSu4F9cqSjh1OgbmOT5cQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=0hlJOrOJV48",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=0hlJOrOJV48",
+          "publishedOn": "2026-06-04T22:00:35.000Z",
+          "wordCount": null,
+          "title": "Conselhos brutalmente honestos para Devs Iniciantes",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=lID3F1ySv3Y",
           "author": null,
           "description": "",
