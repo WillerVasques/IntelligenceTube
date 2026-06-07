@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://willervasques.github.io/IntelligenceTube/index.html</id>
     <title>YouTube Intelligence Dashboard</title>
-    <updated>2026-06-07T02:31:02.258Z</updated>
+    <updated>2026-06-07T08:43:23.743Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://willervasques.github.io/IntelligenceTube/index.html"/>
     <link rel="self" href="https://willervasques.github.io/IntelligenceTube/feed.atom"/>
@@ -157,15 +157,6 @@
         <updated>2026-05-12T22:00:34.000Z</updated>
         <author>
             <name>Área Tech Brasil</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Todo mundo erra essa área!]]></title>
-        <id>https://www.youtube.com/watch?v=K9J23TAS7cM</id>
-        <link href="https://www.youtube.com/watch?v=K9J23TAS7cM"/>
-        <updated>2026-05-08T19:00:26.000Z</updated>
-        <author>
-            <name>Principia Matemática</name>
         </author>
     </entry>
 </feed>
