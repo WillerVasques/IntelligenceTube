@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCpOSu4F9cqSjh1OgbmOT5cQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=LhaVRqFIzfc",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=LhaVRqFIzfc",
+          "publishedOn": "2026-06-06T22:00:15.000Z",
+          "wordCount": null,
+          "title": "73% das empresas NÃO VEEM RETORNO com IA",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=tRHJZk1GU50",
           "author": null,
           "description": "",
@@ -176,16 +186,6 @@
           "publishedOn": "2026-05-13T21:08:38.000Z",
           "wordCount": null,
           "title": "Ninguém te explicou a área da esfera assim",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=K9J23TAS7cM",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=K9J23TAS7cM",
-          "publishedOn": "2026-05-08T19:00:26.000Z",
-          "wordCount": null,
-          "title": "Todo mundo erra essa área!",
           "imageUrl": null
         }
       ]
