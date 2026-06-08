@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCpOSu4F9cqSjh1OgbmOT5cQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=MOEAenzqQa4",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=MOEAenzqQa4",
+          "publishedOn": "2026-06-07T21:00:27.000Z",
+          "wordCount": null,
+          "title": "O Guia Definitivo para Começar na Programação (Aula 1 de 3)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=LhaVRqFIzfc",
           "author": null,
           "description": "",
