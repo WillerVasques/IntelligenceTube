@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCpOSu4F9cqSjh1OgbmOT5cQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=S8OQ-EyVSNY",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=S8OQ-EyVSNY",
+          "publishedOn": "2026-06-10T22:00:36.000Z",
+          "wordCount": null,
+          "title": "A verdade sobre começar na Programação (opinião sincera)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=1-CHSx5LU8Q",
           "author": null,
           "description": "",
