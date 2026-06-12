@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://willervasques.github.io/IntelligenceTube/index.html</id>
     <title>YouTube Intelligence Dashboard</title>
-    <updated>2026-06-11T20:08:28.085Z</updated>
+    <updated>2026-06-12T09:55:06.917Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://willervasques.github.io/IntelligenceTube/index.html"/>
     <link rel="self" href="https://willervasques.github.io/IntelligenceTube/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Como aprender programação tão rápido que parece trapaça]]></title>
+        <id>https://www.youtube.com/watch?v=VBo7hUqYZYA</id>
+        <link href="https://www.youtube.com/watch?v=VBo7hUqYZYA"/>
+        <updated>2026-06-11T22:00:31.000Z</updated>
+        <author>
+            <name>Área Tech Brasil</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[A verdade sobre começar na Programação (opinião sincera)]]></title>
         <id>https://www.youtube.com/watch?v=S8OQ-EyVSNY</id>
@@ -184,15 +193,6 @@
         <updated>2026-05-14T22:00:43.000Z</updated>
         <author>
             <name>Área Tech Brasil</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ninguém te explicou a área da esfera assim]]></title>
-        <id>https://www.youtube.com/watch?v=WKm_BJC0Ih0</id>
-        <link href="https://www.youtube.com/watch?v=WKm_BJC0Ih0"/>
-        <updated>2026-05-13T21:08:38.000Z</updated>
-        <author>
-            <name>Principia Matemática</name>
         </author>
     </entry>
 </feed>

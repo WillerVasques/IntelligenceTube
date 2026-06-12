@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCpOSu4F9cqSjh1OgbmOT5cQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=VBo7hUqYZYA",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=VBo7hUqYZYA",
+          "publishedOn": "2026-06-11T22:00:31.000Z",
+          "wordCount": null,
+          "title": "Como aprender programação tão rápido que parece trapaça",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=S8OQ-EyVSNY",
           "author": null,
           "description": "",
@@ -216,16 +226,6 @@
           "publishedOn": "2026-05-16T20:53:33.000Z",
           "wordCount": null,
           "title": "O medo de errar está te impedindo de aprender matemática",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=WKm_BJC0Ih0",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=WKm_BJC0Ih0",
-          "publishedOn": "2026-05-13T21:08:38.000Z",
-          "wordCount": null,
-          "title": "Ninguém te explicou a área da esfera assim",
           "imageUrl": null
         }
       ]
