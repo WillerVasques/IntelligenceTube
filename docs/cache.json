@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCpOSu4F9cqSjh1OgbmOT5cQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=VBo7hUqYZYA",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=VBo7hUqYZYA",
+          "publishedOn": "2026-06-11T22:00:31.000Z",
+          "wordCount": null,
+          "title": "Como aprender programação tão rápido que parece trapaça",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=S8OQ-EyVSNY",
           "author": null,
           "description": "",
