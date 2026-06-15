@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCpOSu4F9cqSjh1OgbmOT5cQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=zyd1ar4yvJo",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=zyd1ar4yvJo",
+          "publishedOn": "2026-06-14T21:00:15.000Z",
+          "wordCount": null,
+          "title": "O mínimo que um Programador Júnior deveria saber em 2026",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=SgnZdGcabF8",
           "author": null,
           "description": "",
@@ -179,6 +189,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCVngl-zszbWdMcRht9GVrnQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=-Jqy8G9ajQA",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=-Jqy8G9ajQA",
+          "publishedOn": "2026-06-14T20:49:36.000Z",
+          "wordCount": null,
+          "title": "AULA COMPLETA: Semelhança de Triângulos (a explicação que você NUNCA teve!)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=8mIIupWar4k",
           "author": null,
           "description": "",
@@ -216,16 +236,6 @@
           "publishedOn": "2026-05-19T01:03:04.000Z",
           "wordCount": null,
           "title": "Função Afim: Domine esse assunto! - Live 12",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=1SJQirqkc0k",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=1SJQirqkc0k",
-          "publishedOn": "2026-05-16T20:53:33.000Z",
-          "wordCount": null,
-          "title": "O medo de errar está te impedindo de aprender matemática",
           "imageUrl": null
         }
       ]
