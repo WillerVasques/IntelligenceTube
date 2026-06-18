@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCpOSu4F9cqSjh1OgbmOT5cQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=vG7TLZPii1c",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=vG7TLZPii1c",
+          "publishedOn": "2026-06-17T22:00:23.000Z",
+          "wordCount": null,
+          "title": "Por onde [NÃO] começar na programação (EVITE FRUSTRAÇÕES)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=RCAx70p6y5s",
           "author": null,
           "description": "",
