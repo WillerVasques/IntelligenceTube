@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCpOSu4F9cqSjh1OgbmOT5cQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=okmbcCFpNVE",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=okmbcCFpNVE",
+          "publishedOn": "2026-06-18T22:00:38.000Z",
+          "wordCount": null,
+          "title": "Programor iniciante | Foque apenas nisso de agora em diante!",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=vG7TLZPii1c",
           "author": null,
           "description": "",
