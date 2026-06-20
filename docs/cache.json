@@ -209,6 +209,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCVngl-zszbWdMcRht9GVrnQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=HCRwwlENy5U",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=HCRwwlENy5U",
+          "publishedOn": "2026-06-20T19:00:13.000Z",
+          "wordCount": null,
+          "title": "Você decorou seno, cosseno e tangente, mas nunca entendeu",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=-Jqy8G9ajQA",
           "author": null,
           "description": "",
