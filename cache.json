@@ -194,16 +194,6 @@
           "wordCount": null,
           "title": "Eu vou te ensinar JAVA em 24 minutos (é sério)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=k6KjGgmi5q8",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=k6KjGgmi5q8",
-          "publishedOn": "2026-05-21T22:00:02.000Z",
-          "wordCount": null,
-          "title": "O problema de aprender Programação em 2026",
-          "imageUrl": null
         }
       ]
     },
@@ -218,6 +208,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCVngl-zszbWdMcRht9GVrnQ",
       "siteUrl": "https://www.youtube.com/channel/UCVngl-zszbWdMcRht9GVrnQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=HCRwwlENy5U",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=HCRwwlENy5U",
+          "publishedOn": "2026-06-20T19:00:13.000Z",
+          "wordCount": null,
+          "title": "Você decorou seno, cosseno e tangente, mas nunca entendeu",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=-Jqy8G9ajQA",
           "author": null,
