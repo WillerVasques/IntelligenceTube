@@ -239,6 +239,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCVngl-zszbWdMcRht9GVrnQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=XWSazVgQGO8",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=XWSazVgQGO8",
+          "publishedOn": "2026-06-24T14:50:18.000Z",
+          "wordCount": null,
+          "title": "AULA COMPLETA: Triângulo Retângulo (você nunca aprendeu assim!)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=HCRwwlENy5U",
           "author": null,
           "description": "",
@@ -276,16 +286,6 @@
           "publishedOn": "2026-06-02T00:47:11.000Z",
           "wordCount": null,
           "title": "Geometria do ZERO (aula obrigatória!) - Live 14",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=spVMK83qLiI",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=spVMK83qLiI",
-          "publishedOn": "2026-05-26T00:54:51.000Z",
-          "wordCount": null,
-          "title": "Função Quadrática: Aprenda FINALMENTE! - Live 13",
           "imageUrl": null
         }
       ]
