@@ -239,6 +239,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCVngl-zszbWdMcRht9GVrnQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=XWSazVgQGO8",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=XWSazVgQGO8",
+          "publishedOn": "2026-06-24T14:50:18.000Z",
+          "wordCount": null,
+          "title": "AULA COMPLETA: Triângulo Retângulo (você nunca aprendeu assim!)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=HCRwwlENy5U",
           "author": null,
           "description": "",
