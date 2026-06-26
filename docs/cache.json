@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCpOSu4F9cqSjh1OgbmOT5cQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=vcZpkUhpDTo",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=vcZpkUhpDTo",
+          "publishedOn": "2026-06-25T22:00:07.000Z",
+          "wordCount": null,
+          "title": "Linguagens de Programação: Sendo brutalmente honesto",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=wmXwYLxIvxk",
           "author": null,
           "description": "",
