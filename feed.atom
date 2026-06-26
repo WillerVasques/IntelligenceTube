@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://willervasques.github.io/IntelligenceTube/index.html</id>
     <title>YouTube Intelligence Dashboard</title>
-    <updated>2026-06-25T19:44:00.786Z</updated>
+    <updated>2026-06-26T08:48:40.522Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://willervasques.github.io/IntelligenceTube/index.html"/>
     <link rel="self" href="https://willervasques.github.io/IntelligenceTube/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Linguagens de Programação: Sendo brutalmente honesto]]></title>
+        <id>https://www.youtube.com/watch?v=vcZpkUhpDTo</id>
+        <link href="https://www.youtube.com/watch?v=vcZpkUhpDTo"/>
+        <updated>2026-06-25T22:00:07.000Z</updated>
+        <author>
+            <name>Área Tech Brasil</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[AULA COMPLETA: Triângulo Retângulo (você nunca aprendeu assim!)]]></title>
         <id>https://www.youtube.com/watch?v=XWSazVgQGO8</id>
