@@ -229,6 +229,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCVngl-zszbWdMcRht9GVrnQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=jjy7fKUw6rY",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=jjy7fKUw6rY",
+          "publishedOn": "2026-06-27T22:30:00.000Z",
+          "wordCount": null,
+          "title": "Você decorou o binômio de Newton, mas nunca entendeu",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=XWSazVgQGO8",
           "author": null,
           "description": "",
