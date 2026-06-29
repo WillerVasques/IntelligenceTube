@@ -229,6 +229,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCVngl-zszbWdMcRht9GVrnQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=NBIDnJ5XR6c",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=NBIDnJ5XR6c",
+          "publishedOn": "2026-06-29T13:14:23.000Z",
+          "wordCount": null,
+          "title": "AULA COMPLETA: Quadriláteros sem decorar fórmulas!",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=jjy7fKUw6rY",
           "author": null,
           "description": "",
