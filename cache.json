@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCpOSu4F9cqSjh1OgbmOT5cQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=PIqHld-FGnE",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=PIqHld-FGnE",
+          "publishedOn": "2026-07-03T16:21:48.000Z",
+          "wordCount": null,
+          "title": "🔴CLT, mercado e as enganações da internet: bora conversar | Live 03",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=kmb5oo-MRIM",
           "author": null,
           "description": "",
@@ -203,16 +213,6 @@
           "publishedOn": "2026-06-04T22:00:35.000Z",
           "wordCount": null,
           "title": "Conselhos brutalmente honestos para Devs Iniciantes",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=lID3F1ySv3Y",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=lID3F1ySv3Y",
-          "publishedOn": "2026-06-03T22:00:36.000Z",
-          "wordCount": null,
-          "title": "O Guia Definitivo para Começar na Programação em 2026",
           "imageUrl": null
         }
       ]
