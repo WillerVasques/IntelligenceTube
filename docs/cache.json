@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCpOSu4F9cqSjh1OgbmOT5cQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=kmb5oo-MRIM",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=kmb5oo-MRIM",
+          "publishedOn": "2026-07-02T22:00:27.000Z",
+          "wordCount": null,
+          "title": "meu plano para viver de programação em 2026",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=4zK1ApcmRac",
           "author": null,
           "description": "",
