@@ -194,16 +194,6 @@
           "wordCount": null,
           "title": "O Guia Definitivo para Começar na Programação (Aula 1 de 3)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=LhaVRqFIzfc",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=LhaVRqFIzfc",
-          "publishedOn": "2026-06-06T22:00:15.000Z",
-          "wordCount": null,
-          "title": "73% das empresas NÃO VEEM RETORNO com IA",
-          "imageUrl": null
         }
       ]
     },
@@ -229,6 +219,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCVngl-zszbWdMcRht9GVrnQ",
       "siteUrl": "https://www.youtube.com/channel/UCVngl-zszbWdMcRht9GVrnQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=H30aGw5q5yA",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=H30aGw5q5yA",
+          "publishedOn": "2026-07-06T13:40:44.000Z",
+          "wordCount": null,
+          "title": "Polígonos do ZERO (aula obrigatória!)",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=NBIDnJ5XR6c",
           "author": null,
