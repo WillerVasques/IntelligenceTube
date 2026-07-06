@@ -211,7 +211,18 @@
       "title": "A Beleza dos Dados",
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCnpitTIp52GpOC8LaNnWefg",
       "siteUrl": "https://www.youtube.com/channel/UCnpitTIp52GpOC8LaNnWefg",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=ZFZ6wH6woOY",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=ZFZ6wH6woOY",
+          "publishedOn": "2026-07-05T23:30:28.000Z",
+          "wordCount": null,
+          "title": "Chegamos a 100 MIL A História Que Ninguém Viu",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "Principia Matemática",
