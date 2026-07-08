@@ -184,16 +184,6 @@
           "wordCount": null,
           "title": "Qual o melhor Sistema Operacional para Programar em 2026",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=HxqtRONeLes",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=HxqtRONeLes",
-          "publishedOn": "2026-06-08T22:00:21.000Z",
-          "wordCount": null,
-          "title": "AS 5 MELHORES LINGUAGENS PARA 2026",
-          "imageUrl": null
         }
       ]
     },
@@ -277,6 +267,16 @@
           "publishedOn": "2026-06-14T20:49:36.000Z",
           "wordCount": null,
           "title": "AULA COMPLETA: Semelhança de Triângulos (a explicação que você NUNCA teve!)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=8mIIupWar4k",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=8mIIupWar4k",
+          "publishedOn": "2026-06-11T00:53:19.000Z",
+          "wordCount": null,
+          "title": "Tudo começa no triângulo: a aula de Geometria que você deveria ter tido antes",
           "imageUrl": null
         }
       ]
