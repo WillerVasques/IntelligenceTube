@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCpOSu4F9cqSjh1OgbmOT5cQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=YFUE-oSNf4Q",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=YFUE-oSNf4Q",
+          "publishedOn": "2026-07-07T22:00:23.000Z",
+          "wordCount": null,
+          "title": "Programador INICIANTE, faça ISSO o QUANTO ANTES!",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=kkNFeNRXNN8",
           "author": null,
           "description": "",
@@ -267,16 +277,6 @@
           "publishedOn": "2026-06-14T20:49:36.000Z",
           "wordCount": null,
           "title": "AULA COMPLETA: Semelhança de Triângulos (a explicação que você NUNCA teve!)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=8mIIupWar4k",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=8mIIupWar4k",
-          "publishedOn": "2026-06-08T17:22:25.000Z",
-          "wordCount": null,
-          "title": "Tudo começa no triângulo: a aula de Geometria que você deveria ter tido antes",
           "imageUrl": null
         }
       ]
