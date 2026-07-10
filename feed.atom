@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://willervasques.github.io/IntelligenceTube/index.html</id>
     <title>YouTube Intelligence Dashboard</title>
-    <updated>2026-07-10T08:59:23.697Z</updated>
+    <updated>2026-07-10T19:13:57.326Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://willervasques.github.io/IntelligenceTube/index.html"/>
     <link rel="self" href="https://willervasques.github.io/IntelligenceTube/feed.atom"/>
@@ -218,24 +218,6 @@
         <id>https://www.youtube.com/watch?v=VBo7hUqYZYA</id>
         <link href="https://www.youtube.com/watch?v=VBo7hUqYZYA"/>
         <updated>2026-06-11T22:00:31.000Z</updated>
-        <author>
-            <name>Área Tech Brasil</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tudo começa no triângulo: a aula de Geometria que você deveria ter tido antes]]></title>
-        <id>https://www.youtube.com/watch?v=8mIIupWar4k</id>
-        <link href="https://www.youtube.com/watch?v=8mIIupWar4k"/>
-        <updated>2026-06-11T00:53:19.000Z</updated>
-        <author>
-            <name>Principia Matemática</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A verdade sobre começar na Programação (opinião sincera)]]></title>
-        <id>https://www.youtube.com/watch?v=S8OQ-EyVSNY</id>
-        <link href="https://www.youtube.com/watch?v=S8OQ-EyVSNY"/>
-        <updated>2026-06-10T22:00:36.000Z</updated>
         <author>
             <name>Área Tech Brasil</name>
         </author>
