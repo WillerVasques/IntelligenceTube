@@ -163,6 +163,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCnpitTIp52GpOC8LaNnWefg",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=wccCdqr7sBk",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=wccCdqr7sBk",
+          "publishedOn": "2026-07-12T23:30:22.000Z",
+          "wordCount": null,
+          "title": "Toda IA Hoje é Treinada no Crime que o Matou",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=ZFZ6wH6woOY",
           "author": null,
           "description": "",
@@ -179,6 +189,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCVngl-zszbWdMcRht9GVrnQ",
       "siteUrl": "https://www.youtube.com/channel/UCVngl-zszbWdMcRht9GVrnQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=O5oi-uXbEHc",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=O5oi-uXbEHc",
+          "publishedOn": "2026-07-12T20:46:16.000Z",
+          "wordCount": null,
+          "title": "TUDO sobre Círculo e Circunferência (aula obrigatória!)",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=H30aGw5q5yA",
           "author": null,
