@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCpOSu4F9cqSjh1OgbmOT5cQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=pHFl1TSfEgE",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=pHFl1TSfEgE",
+          "publishedOn": "2026-07-14T22:00:36.000Z",
+          "wordCount": null,
+          "title": "Por que o mercado de programação não quer os mais novos?",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=yH519-pFZwc",
           "author": null,
           "description": "",
