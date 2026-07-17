@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCpOSu4F9cqSjh1OgbmOT5cQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=wzEvOGti_c0",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=wzEvOGti_c0",
+          "publishedOn": "2026-07-16T22:00:18.000Z",
+          "wordCount": null,
+          "title": "Por Que o Devs 'Medíocres' Estão Tomando seu lugar?",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=pHFl1TSfEgE",
           "author": null,
           "description": "",
