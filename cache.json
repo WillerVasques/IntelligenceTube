@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCpOSu4F9cqSjh1OgbmOT5cQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=3LtcofPKXYk",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=3LtcofPKXYk",
+          "publishedOn": "2026-07-20T02:20:12.000Z",
+          "wordCount": null,
+          "title": "🔴COMO FICAR BIZARRAMENTE BOM EM PROGRAMAÇÃO #03",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=wzEvOGti_c0",
           "author": null,
           "description": "",
@@ -143,6 +153,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCnpitTIp52GpOC8LaNnWefg",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=tasRqzK3BJA",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=tasRqzK3BJA",
+          "publishedOn": "2026-07-19T23:30:14.000Z",
+          "wordCount": null,
+          "title": "Ela Foi Enterrada Sem Lápide  Virou Imortal",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=wccCdqr7sBk",
           "author": null,
           "description": "",
@@ -169,6 +189,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCVngl-zszbWdMcRht9GVrnQ",
       "siteUrl": "https://www.youtube.com/channel/UCVngl-zszbWdMcRht9GVrnQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=8IFTlsF2FB4",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=8IFTlsF2FB4",
+          "publishedOn": "2026-07-19T23:49:35.000Z",
+          "wordCount": null,
+          "title": "Você NUNCA viu trigonometria assim! (AULA COMPLETA)",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=eQrH7JtDfKo",
           "author": null,
@@ -227,16 +257,6 @@
           "publishedOn": "2026-06-24T14:50:18.000Z",
           "wordCount": null,
           "title": "AULA COMPLETA: Triângulo Retângulo (você nunca aprendeu assim!)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=HCRwwlENy5U",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=HCRwwlENy5U",
-          "publishedOn": "2026-06-20T19:00:13.000Z",
-          "wordCount": null,
-          "title": "Você decorou seno, cosseno e tangente, mas nunca entendeu",
           "imageUrl": null
         }
       ]
