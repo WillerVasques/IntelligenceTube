@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCpOSu4F9cqSjh1OgbmOT5cQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=_zjvqKczO0I",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=_zjvqKczO0I",
+          "publishedOn": "2026-07-21T22:00:16.000Z",
+          "wordCount": null,
+          "title": "Dev iniciante: Esse Vídeo Vai Te Encontrar Quando For a Hora Certa",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=3LtcofPKXYk",
           "author": null,
           "description": "",
@@ -130,7 +140,7 @@
           "author": null,
           "description": "",
           "link": "https://www.youtube.com/watch?v=6rqo1dS__9Q",
-          "publishedOn": "2026-06-22T09:42:44.000Z",
+          "publishedOn": "2026-06-23T02:19:34.000Z",
           "wordCount": null,
           "title": "🔴Tokens de IA custam mais que funcionários | Live 02",
           "imageUrl": null
