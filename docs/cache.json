@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCpOSu4F9cqSjh1OgbmOT5cQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=uIgMJ41pnFM",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=uIgMJ41pnFM",
+          "publishedOn": "2026-07-23T22:00:33.000Z",
+          "wordCount": null,
+          "title": "APRENDER PROGRAMAÇÃO é bem simples, na real",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=_zjvqKczO0I",
           "author": null,
           "description": "",
@@ -169,6 +179,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCVngl-zszbWdMcRht9GVrnQ",
       "siteUrl": "https://www.youtube.com/channel/UCVngl-zszbWdMcRht9GVrnQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=80GHmDAoRmg",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=80GHmDAoRmg",
+          "publishedOn": "2026-07-23T20:06:08.000Z",
+          "wordCount": null,
+          "title": "Tudo sobre LEI DOS SENOS e DOS COSSENOS (do ZERO!)",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=R6lM3DaBC_U",
           "author": null,
