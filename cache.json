@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCpOSu4F9cqSjh1OgbmOT5cQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=uIgMJ41pnFM",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=uIgMJ41pnFM",
+          "publishedOn": "2026-07-23T22:00:33.000Z",
+          "wordCount": null,
+          "title": "APRENDER PROGRAMAÇÃO é bem simples, na real",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=_zjvqKczO0I",
           "author": null,
           "description": "",
@@ -170,6 +180,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCVngl-zszbWdMcRht9GVrnQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=80GHmDAoRmg",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=80GHmDAoRmg",
+          "publishedOn": "2026-07-23T20:06:08.000Z",
+          "wordCount": null,
+          "title": "Tudo sobre LEI DOS SENOS e DOS COSSENOS (do ZERO!)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=R6lM3DaBC_U",
           "author": null,
           "description": "",
@@ -237,16 +257,6 @@
           "publishedOn": "2026-06-27T22:30:00.000Z",
           "wordCount": null,
           "title": "Você decorou o binômio de Newton, mas nunca entendeu",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=XWSazVgQGO8",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=XWSazVgQGO8",
-          "publishedOn": "2026-06-24T14:50:18.000Z",
-          "wordCount": null,
-          "title": "AULA COMPLETA: Triângulo Retângulo (você nunca aprendeu assim!)",
           "imageUrl": null
         }
       ]
