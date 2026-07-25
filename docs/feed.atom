@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://willervasques.github.io/IntelligenceTube/index.html</id>
     <title>YouTube Intelligence Dashboard</title>
-    <updated>2026-07-24T19:09:54.587Z</updated>
+    <updated>2026-07-25T01:42:27.444Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://willervasques.github.io/IntelligenceTube/index.html"/>
     <link rel="self" href="https://willervasques.github.io/IntelligenceTube/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Minha vó resolveu essa da UNESP achando que era bingo (era a mais difícil)]]></title>
+        <id>https://www.youtube.com/watch?v=4hkS-wFdmlE</id>
+        <link href="https://www.youtube.com/watch?v=4hkS-wFdmlE"/>
+        <updated>2026-07-24T21:00:27.000Z</updated>
+        <author>
+            <name>Principia Matemática</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[APRENDER PROGRAMAÇÃO é bem simples, na real]]></title>
         <id>https://www.youtube.com/watch?v=uIgMJ41pnFM</id>
