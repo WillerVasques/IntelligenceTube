@@ -170,6 +170,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCVngl-zszbWdMcRht9GVrnQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=4-jITrQPhEk",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=4-jITrQPhEk",
+          "publishedOn": "2026-07-25T20:40:31.000Z",
+          "wordCount": null,
+          "title": "Soma e Diferença de Arcos: Entenda as 6 Fórmulas sem Decorar",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=4hkS-wFdmlE",
           "author": null,
           "description": "",
