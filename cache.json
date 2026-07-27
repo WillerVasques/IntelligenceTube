@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCpOSu4F9cqSjh1OgbmOT5cQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=eekWlUx432g",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=eekWlUx432g",
+          "publishedOn": "2026-07-27T16:57:06.000Z",
+          "wordCount": null,
+          "title": "🔴Aprender Programação é Ridiculamente Fácil (Se souber disso) #04",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=uIgMJ41pnFM",
           "author": null,
           "description": "",
@@ -267,16 +277,6 @@
           "publishedOn": "2026-06-29T13:14:23.000Z",
           "wordCount": null,
           "title": "AULA COMPLETA: Quadriláteros sem decorar fórmulas!",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=jjy7fKUw6rY",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=jjy7fKUw6rY",
-          "publishedOn": "2026-06-27T22:30:00.000Z",
-          "wordCount": null,
-          "title": "Você decorou o binômio de Newton, mas nunca entendeu",
           "imageUrl": null
         }
       ]
