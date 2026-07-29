@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCpOSu4F9cqSjh1OgbmOT5cQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=HvyKnOqtZtQ",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=HvyKnOqtZtQ",
+          "publishedOn": "2026-07-28T22:00:32.000Z",
+          "wordCount": null,
+          "title": "Porque 99% das pessoas vão fracassar na programação",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=eekWlUx432g",
           "author": null,
           "description": "",
@@ -267,16 +277,6 @@
           "publishedOn": "2026-07-06T13:40:44.000Z",
           "wordCount": null,
           "title": "Polígonos do ZERO (aula obrigatória!)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=NBIDnJ5XR6c",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=NBIDnJ5XR6c",
-          "publishedOn": "2026-06-29T13:14:23.000Z",
-          "wordCount": null,
-          "title": "AULA COMPLETA: Quadriláteros sem decorar fórmulas!",
           "imageUrl": null
         }
       ]
