@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCpOSu4F9cqSjh1OgbmOT5cQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=c5j_LVc6Xck",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=c5j_LVc6Xck",
+          "publishedOn": "2026-07-30T22:00:04.000Z",
+          "wordCount": null,
+          "title": "Como Instalar o Java JDK no Windows | Guia Completo e Atualizado",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=HvyKnOqtZtQ",
           "author": null,
           "description": "",
