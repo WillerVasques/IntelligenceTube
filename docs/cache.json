@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCpOSu4F9cqSjh1OgbmOT5cQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=s8e7zL4ZjP4",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=s8e7zL4ZjP4",
+          "publishedOn": "2026-08-01T01:45:34.000Z",
+          "wordCount": null,
+          "title": "🔴Aprender Programação é Ridiculamente Fácil (Se fizer isso) #05",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=c5j_LVc6Xck",
           "author": null,
           "description": "",
@@ -199,6 +209,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCVngl-zszbWdMcRht9GVrnQ",
       "siteUrl": "https://www.youtube.com/channel/UCVngl-zszbWdMcRht9GVrnQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=yqDz0xMkCRw",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=yqDz0xMkCRw",
+          "publishedOn": "2026-07-31T21:32:55.000Z",
+          "wordCount": null,
+          "title": "Fórmulas do Arco Duplo SEM DECORAR | Seno, Cosseno e Tangente",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=sIiuWTOqBaw",
           "author": null,
