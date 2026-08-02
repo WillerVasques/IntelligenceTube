@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCpOSu4F9cqSjh1OgbmOT5cQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=uLxhBPktecc",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=uLxhBPktecc",
+          "publishedOn": "2026-08-01T22:00:05.000Z",
+          "wordCount": null,
+          "title": "O que eu faria se tivesse que começar do ZERO na programação",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=s8e7zL4ZjP4",
           "author": null,
           "description": "",
@@ -133,16 +143,6 @@
           "publishedOn": "2026-07-05T18:15:33.000Z",
           "wordCount": null,
           "title": "🔴COMO FICAR BIZARRAMENTE BOM EM PROGRAMAÇÃO",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=PIqHld-FGnE",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=PIqHld-FGnE",
-          "publishedOn": "2026-07-03T16:21:48.000Z",
-          "wordCount": null,
-          "title": "🔴CLT, mercado e as enganações da internet: bora conversar | Live 03",
           "imageUrl": null
         }
       ]
