@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCpOSu4F9cqSjh1OgbmOT5cQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=uLxhBPktecc",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=uLxhBPktecc",
+          "publishedOn": "2026-08-01T22:00:05.000Z",
+          "wordCount": null,
+          "title": "O que eu faria se tivesse que começar do ZERO na programação",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=s8e7zL4ZjP4",
           "author": null,
           "description": "",
