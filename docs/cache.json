@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCpOSu4F9cqSjh1OgbmOT5cQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=7sA1xseg6tE",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=7sA1xseg6tE",
+          "publishedOn": "2026-08-02T22:00:01.000Z",
+          "wordCount": null,
+          "title": "Dev Iniciante | Você só precisa de 6 meses para mudar de vida",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=uLxhBPktecc",
           "author": null,
           "description": "",
@@ -199,6 +209,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCVngl-zszbWdMcRht9GVrnQ",
       "siteUrl": "https://www.youtube.com/channel/UCVngl-zszbWdMcRht9GVrnQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=fsySwB4Ewd8",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=fsySwB4Ewd8",
+          "publishedOn": "2026-08-02T23:03:22.000Z",
+          "wordCount": null,
+          "title": "Aprenda TODAS as Fórmulas de Áreas em Uma ÚNICA Aula",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=yqDz0xMkCRw",
           "author": null,
