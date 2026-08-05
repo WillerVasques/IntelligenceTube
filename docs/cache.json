@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCpOSu4F9cqSjh1OgbmOT5cQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=x3BRoTT1VaM",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=x3BRoTT1VaM",
+          "publishedOn": "2026-08-04T22:00:04.000Z",
+          "wordCount": null,
+          "title": "Por que tanta gente desiste da programação",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=zVuygK8piZc",
           "author": null,
           "description": "",
