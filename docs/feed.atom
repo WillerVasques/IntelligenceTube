@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://willervasques.github.io/IntelligenceTube/index.html</id>
     <title>YouTube Intelligence Dashboard</title>
-    <updated>2026-08-06T08:13:08.538Z</updated>
+    <updated>2026-08-06T13:38:38.418Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://willervasques.github.io/IntelligenceTube/index.html"/>
     <link rel="self" href="https://willervasques.github.io/IntelligenceTube/feed.atom"/>
@@ -272,15 +272,6 @@
         <id>https://www.youtube.com/watch?v=w1CW0K7zfeQ</id>
         <link href="https://www.youtube.com/watch?v=w1CW0K7zfeQ"/>
         <updated>2026-07-09T22:00:34.000Z</updated>
-        <author>
-            <name>Área Tech Brasil</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Programador INICIANTE, faça ISSO o QUANTO ANTES!]]></title>
-        <id>https://www.youtube.com/watch?v=YFUE-oSNf4Q</id>
-        <link href="https://www.youtube.com/watch?v=YFUE-oSNf4Q"/>
-        <updated>2026-07-07T22:00:23.000Z</updated>
         <author>
             <name>Área Tech Brasil</name>
         </author>
