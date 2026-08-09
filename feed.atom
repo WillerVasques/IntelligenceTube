@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://willervasques.github.io/IntelligenceTube/index.html</id>
     <title>YouTube Intelligence Dashboard</title>
-    <updated>2026-08-09T06:36:10.229Z</updated>
+    <updated>2026-08-09T18:22:56.046Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://willervasques.github.io/IntelligenceTube/index.html"/>
     <link rel="self" href="https://willervasques.github.io/IntelligenceTube/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[100% da Sua Energia Nasceu Numa Encadernaria]]></title>
+        <id>https://www.youtube.com/watch?v=ML1O7pkYADo</id>
+        <link href="https://www.youtube.com/watch?v=ML1O7pkYADo"/>
+        <updated>2026-08-09T15:00:13.000Z</updated>
+        <author>
+            <name>A Beleza dos Dados</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[🔴Aprender Programação é Ridiculamente Simples #07]]></title>
         <id>https://www.youtube.com/watch?v=5JWMwpD_guA</id>
