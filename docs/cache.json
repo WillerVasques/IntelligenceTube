@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCpOSu4F9cqSjh1OgbmOT5cQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=IIgU-6uR0G4",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=IIgU-6uR0G4",
+          "publishedOn": "2026-08-10T17:04:16.000Z",
+          "wordCount": null,
+          "title": "🔴Aprender Programação em 2026 é Ridiculamente Simples #08",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=5JWMwpD_guA",
           "author": null,
           "description": "",
@@ -219,6 +229,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCVngl-zszbWdMcRht9GVrnQ",
       "siteUrl": "https://www.youtube.com/channel/UCVngl-zszbWdMcRht9GVrnQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=t9ATE2VapC0",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=t9ATE2VapC0",
+          "publishedOn": "2026-08-10T16:14:48.000Z",
+          "wordCount": null,
+          "title": "TUDO sobre Função Exponencial em uma aula",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=eP5pSozy2Jg",
           "author": null,
