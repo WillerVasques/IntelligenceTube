@@ -210,6 +210,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCVngl-zszbWdMcRht9GVrnQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=_SFFx7unEeA",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=_SFFx7unEeA",
+          "publishedOn": "2026-08-13T13:09:35.000Z",
+          "wordCount": null,
+          "title": "LOGARITMOS: Aprenda TUDO em Uma Única Aula",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=t9ATE2VapC0",
           "author": null,
           "description": "",
