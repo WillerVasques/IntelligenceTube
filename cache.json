@@ -164,16 +164,6 @@
           "wordCount": null,
           "title": "Por Que o Devs 'Medíocres' Estão Tomando seu lugar?",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=pHFl1TSfEgE",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=pHFl1TSfEgE",
-          "publishedOn": "2026-07-14T22:00:36.000Z",
-          "wordCount": null,
-          "title": "Por que o mercado de programação não quer os mais novos?",
-          "imageUrl": null
         }
       ]
     },
@@ -219,6 +209,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCVngl-zszbWdMcRht9GVrnQ",
       "siteUrl": "https://www.youtube.com/channel/UCVngl-zszbWdMcRht9GVrnQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=_SFFx7unEeA",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=_SFFx7unEeA",
+          "publishedOn": "2026-08-13T13:09:35.000Z",
+          "wordCount": null,
+          "title": "LOGARITMOS: Aprenda TUDO em Uma Única Aula",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=t9ATE2VapC0",
           "author": null,
