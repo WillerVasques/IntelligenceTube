@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCpOSu4F9cqSjh1OgbmOT5cQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=QlT0hzLUre0",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=QlT0hzLUre0",
+          "publishedOn": "2026-08-17T20:21:08.000Z",
+          "wordCount": null,
+          "title": "Dia 10 | Bate papo Tech | Desafios Técnicos",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=WVSUEHLFZ0U",
           "author": null,
           "description": "",
