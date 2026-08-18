@@ -174,16 +174,6 @@
           "wordCount": null,
           "title": "Dev iniciante: Esse Vídeo Vai Te Encontrar Quando For a Hora Certa",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=3LtcofPKXYk",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=3LtcofPKXYk",
-          "publishedOn": "2026-07-20T02:20:12.000Z",
-          "wordCount": null,
-          "title": "🔴COMO FICAR BIZARRAMENTE BOM EM PROGRAMAÇÃO #03",
-          "imageUrl": null
         }
       ]
     },
@@ -327,6 +317,16 @@
           "publishedOn": "2026-07-22T21:00:21.000Z",
           "wordCount": null,
           "title": "Você resolveria a questão mais difícil da UNICAMP 2026?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=8IFTlsF2FB4",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=8IFTlsF2FB4",
+          "publishedOn": "2026-07-21T00:31:50.000Z",
+          "wordCount": null,
+          "title": "Você NUNCA viu trigonometria assim! (AULA COMPLETA)",
           "imageUrl": null
         }
       ]
