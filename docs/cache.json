@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCpOSu4F9cqSjh1OgbmOT5cQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=kwDFNI8OXik",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=kwDFNI8OXik",
+          "publishedOn": "2026-08-18T22:00:06.000Z",
+          "wordCount": null,
+          "title": "Nunca Foi Tão Fácil Aprender Programação",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=QlT0hzLUre0",
           "author": null,
           "description": "",
