@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCpOSu4F9cqSjh1OgbmOT5cQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=WwgRp1fZ-wk",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=WwgRp1fZ-wk",
+          "publishedOn": "2026-08-21T16:19:28.000Z",
+          "wordCount": null,
+          "title": "Dia 11 | Procurando vagas de Devs (Não sobrou nada pro Júnior...)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=IR7wXWeGcA0",
           "author": null,
           "description": "",
@@ -327,16 +337,6 @@
           "publishedOn": "2026-07-23T20:06:08.000Z",
           "wordCount": null,
           "title": "Tudo sobre LEI DOS SENOS e DOS COSSENOS (do ZERO!)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=R6lM3DaBC_U",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=R6lM3DaBC_U",
-          "publishedOn": "2026-07-22T21:00:21.000Z",
-          "wordCount": null,
-          "title": "Você resolveria a questão mais difícil da UNICAMP 2026?",
           "imageUrl": null
         }
       ]
