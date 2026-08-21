@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCpOSu4F9cqSjh1OgbmOT5cQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=IR7wXWeGcA0",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=IR7wXWeGcA0",
+          "publishedOn": "2026-08-20T22:00:12.000Z",
+          "wordCount": null,
+          "title": "Qual Linguagem de Programação escolher p/ 2027",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=kwDFNI8OXik",
           "author": null,
           "description": "",
@@ -209,6 +219,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCVngl-zszbWdMcRht9GVrnQ",
       "siteUrl": "https://www.youtube.com/channel/UCVngl-zszbWdMcRht9GVrnQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=wef4L7UXqj8",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=wef4L7UXqj8",
+          "publishedOn": "2026-08-20T21:00:19.000Z",
+          "wordCount": null,
+          "title": "Eu Provei que 1 + 1 = 0. Duvido Você Encontrar o Erro!",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=ZMMR0AIYBn4",
           "author": null,
