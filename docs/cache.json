@@ -220,6 +220,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCVngl-zszbWdMcRht9GVrnQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=7hVEiVJ5YuM",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=7hVEiVJ5YuM",
+          "publishedOn": "2026-08-23T23:00:50.000Z",
+          "wordCount": null,
+          "title": "PA e PG: A Aula DEFINITIVA para Vestibulares",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=wef4L7UXqj8",
           "author": null,
           "description": "",
