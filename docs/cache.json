@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCpOSu4F9cqSjh1OgbmOT5cQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=BYlPsi3Xvc0",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=BYlPsi3Xvc0",
+          "publishedOn": "2026-08-24T17:25:19.000Z",
+          "wordCount": null,
+          "title": "Dia 12 | Programação ainda vale a pena?",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=WwgRp1fZ-wk",
           "author": null,
           "description": "",
