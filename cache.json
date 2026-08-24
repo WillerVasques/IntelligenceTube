@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCpOSu4F9cqSjh1OgbmOT5cQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=BYlPsi3Xvc0",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=BYlPsi3Xvc0",
+          "publishedOn": "2026-08-24T17:25:19.000Z",
+          "wordCount": null,
+          "title": "Dia 12 | Programação ainda vale a pena?",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=WwgRp1fZ-wk",
           "author": null,
           "description": "",
@@ -307,16 +317,6 @@
           "publishedOn": "2026-07-29T21:00:25.000Z",
           "wordCount": null,
           "title": "A Questão Mais Difícil da FUVEST 2026 Estava ERRADA",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=4-jITrQPhEk",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=4-jITrQPhEk",
-          "publishedOn": "2026-07-25T20:40:31.000Z",
-          "wordCount": null,
-          "title": "Soma e Diferença de Arcos: Entenda as 6 Fórmulas sem Decorar",
           "imageUrl": null
         }
       ]
