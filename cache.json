@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCpOSu4F9cqSjh1OgbmOT5cQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=Sv8QqtWehq0",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Sv8QqtWehq0",
+          "publishedOn": "2026-08-25T22:00:28.000Z",
+          "wordCount": null,
+          "title": "Como ficar INSANAMENTE bom em programação (segundo a neurociência)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=KSKC8KikI74",
           "author": null,
           "description": "",
