@@ -194,26 +194,6 @@
           "wordCount": null,
           "title": "Como Instalar o Java JDK no Windows | Guia Completo e Atualizado",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=HvyKnOqtZtQ",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=HvyKnOqtZtQ",
-          "publishedOn": "2026-07-28T22:00:32.000Z",
-          "wordCount": null,
-          "title": "Porque 99% das pessoas vão fracassar na programação",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=eekWlUx432g",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=eekWlUx432g",
-          "publishedOn": "2026-07-27T16:57:06.000Z",
-          "wordCount": null,
-          "title": "🔴Aprender Programação é Ridiculamente Fácil (Se souber disso) #04",
-          "imageUrl": null
         }
       ]
     },
@@ -239,6 +219,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCVngl-zszbWdMcRht9GVrnQ",
       "siteUrl": "https://www.youtube.com/channel/UCVngl-zszbWdMcRht9GVrnQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=iIIVnhEEwDE",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=iIIVnhEEwDE",
+          "publishedOn": "2026-08-26T22:53:17.000Z",
+          "wordCount": null,
+          "title": "NÃO DECORE a fórmula do RADICAL DUPLO! Faça ISSO",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=7hVEiVJ5YuM",
           "author": null,
