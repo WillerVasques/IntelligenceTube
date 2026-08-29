@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://willervasques.github.io/IntelligenceTube/index.html</id>
     <title>YouTube Intelligence Dashboard</title>
-    <updated>2026-08-29T01:16:27.414Z</updated>
+    <updated>2026-08-29T11:55:03.416Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://willervasques.github.io/IntelligenceTube/index.html"/>
     <link rel="self" href="https://willervasques.github.io/IntelligenceTube/feed.atom"/>
@@ -274,15 +274,6 @@
         <updated>2026-07-31T21:32:55.000Z</updated>
         <author>
             <name>Principia Matemática</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Como Instalar o Java JDK no Windows | Guia Completo e Atualizado]]></title>
-        <id>https://www.youtube.com/watch?v=c5j_LVc6Xck</id>
-        <link href="https://www.youtube.com/watch?v=c5j_LVc6Xck"/>
-        <updated>2026-07-30T22:00:04.000Z</updated>
-        <author>
-            <name>Área Tech Brasil</name>
         </author>
     </entry>
 </feed>
