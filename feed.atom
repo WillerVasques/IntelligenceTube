@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://willervasques.github.io/IntelligenceTube/index.html</id>
     <title>YouTube Intelligence Dashboard</title>
-    <updated>2026-08-29T20:07:40.899Z</updated>
+    <updated>2026-08-30T10:52:14.562Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://willervasques.github.io/IntelligenceTube/index.html"/>
     <link rel="self" href="https://willervasques.github.io/IntelligenceTube/feed.atom"/>
@@ -265,15 +265,6 @@
         <updated>2026-08-01T01:45:34.000Z</updated>
         <author>
             <name>Área Tech Brasil</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fórmulas do Arco Duplo SEM DECORAR | Seno, Cosseno e Tangente]]></title>
-        <id>https://www.youtube.com/watch?v=yqDz0xMkCRw</id>
-        <link href="https://www.youtube.com/watch?v=yqDz0xMkCRw"/>
-        <updated>2026-07-31T21:32:55.000Z</updated>
-        <author>
-            <name>Principia Matemática</name>
         </author>
     </entry>
 </feed>
