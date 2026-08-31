@@ -220,6 +220,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCVngl-zszbWdMcRht9GVrnQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=kWgcEPYTwWg",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=kWgcEPYTwWg",
+          "publishedOn": "2026-08-30T20:52:03.000Z",
+          "wordCount": null,
+          "title": "DOMINE TUDO de Matemática Financeira com essa aula!",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=iIIVnhEEwDE",
           "author": null,
           "description": "",
