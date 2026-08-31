@@ -184,16 +184,6 @@
           "wordCount": null,
           "title": "Dev Iniciante | Você só precisa de 6 meses para mudar de vida",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=uLxhBPktecc",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=uLxhBPktecc",
-          "publishedOn": "2026-08-01T22:00:05.000Z",
-          "wordCount": null,
-          "title": "O que eu faria se tivesse que começar do ZERO na programação",
-          "imageUrl": null
         }
       ]
     },
@@ -219,6 +209,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCVngl-zszbWdMcRht9GVrnQ",
       "siteUrl": "https://www.youtube.com/channel/UCVngl-zszbWdMcRht9GVrnQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=kWgcEPYTwWg",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=kWgcEPYTwWg",
+          "publishedOn": "2026-08-30T20:52:03.000Z",
+          "wordCount": null,
+          "title": "DOMINE TUDO de Matemática Financeira com essa aula!",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=iIIVnhEEwDE",
           "author": null,
