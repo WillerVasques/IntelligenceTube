@@ -164,16 +164,6 @@
           "wordCount": null,
           "title": "A BOLHA DA I A JÁ ESTOUROU KKKKKK",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=x3BRoTT1VaM",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=x3BRoTT1VaM",
-          "publishedOn": "2026-08-04T22:00:04.000Z",
-          "wordCount": null,
-          "title": "Por que tanta gente desiste da programação",
-          "imageUrl": null
         }
       ]
     },
@@ -199,6 +189,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCVngl-zszbWdMcRht9GVrnQ",
       "siteUrl": "https://www.youtube.com/channel/UCVngl-zszbWdMcRht9GVrnQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=_83XQ6pmTE4",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=_83XQ6pmTE4",
+          "publishedOn": "2026-09-02T21:00:19.000Z",
+          "wordCount": null,
+          "title": "O QUE É FUNÇÃO? ME DÊ 1 MINUTO!",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=kWgcEPYTwWg",
           "author": null,

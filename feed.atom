@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://willervasques.github.io/IntelligenceTube/index.html</id>
     <title>YouTube Intelligence Dashboard</title>
-    <updated>2026-09-02T20:14:29.175Z</updated>
+    <updated>2026-09-03T10:18:50.176Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://willervasques.github.io/IntelligenceTube/index.html"/>
     <link rel="self" href="https://willervasques.github.io/IntelligenceTube/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[O QUE É FUNÇÃO? ME DÊ 1 MINUTO!]]></title>
+        <id>https://www.youtube.com/watch?v=_83XQ6pmTE4</id>
+        <link href="https://www.youtube.com/watch?v=_83XQ6pmTE4"/>
+        <updated>2026-09-02T21:00:19.000Z</updated>
+        <author>
+            <name>Principia Matemática</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[COMO APRENDER JAVA E CONSEGUIR UM EMPREGO EM 6 MESES]]></title>
         <id>https://www.youtube.com/watch?v=lSHPYwyzFxk</id>
@@ -229,15 +238,6 @@
         <updated>2026-08-05T21:00:34.000Z</updated>
         <author>
             <name>Principia Matemática</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Por que tanta gente desiste da programação]]></title>
-        <id>https://www.youtube.com/watch?v=x3BRoTT1VaM</id>
-        <link href="https://www.youtube.com/watch?v=x3BRoTT1VaM"/>
-        <updated>2026-08-04T22:00:04.000Z</updated>
-        <author>
-            <name>Área Tech Brasil</name>
         </author>
     </entry>
 </feed>
