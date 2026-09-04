@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCpOSu4F9cqSjh1OgbmOT5cQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=jfwOnYOS0E0",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=jfwOnYOS0E0",
+          "publishedOn": "2026-09-03T22:00:34.000Z",
+          "wordCount": null,
+          "title": "Qual é o futuro dos Programadores em 5 meses",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=lSHPYwyzFxk",
           "author": null,
           "description": "",
@@ -154,16 +164,6 @@
           "wordCount": null,
           "title": "🔴Aprender Programação é Ridiculamente Simples #07",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=w8x2hvaicug",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=w8x2hvaicug",
-          "publishedOn": "2026-08-05T22:00:14.000Z",
-          "wordCount": null,
-          "title": "A BOLHA DA I A JÁ ESTOUROU KKKKKK",
-          "imageUrl": null
         }
       ]
     },
@@ -267,16 +267,6 @@
           "publishedOn": "2026-08-10T16:14:48.000Z",
           "wordCount": null,
           "title": "TUDO sobre Função Exponencial em uma aula",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=eP5pSozy2Jg",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=eP5pSozy2Jg",
-          "publishedOn": "2026-08-05T21:00:34.000Z",
-          "wordCount": null,
-          "title": "Essa é a Questão FÁCIL da HISTÓRIA do ITA (você resolve?)",
           "imageUrl": null
         }
       ]
