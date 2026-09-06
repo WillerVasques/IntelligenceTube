@@ -154,16 +154,6 @@
           "wordCount": null,
           "title": "🔴Aprender Programação em 2026 é Ridiculamente Simples #08",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=5JWMwpD_guA",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=5JWMwpD_guA",
-          "publishedOn": "2026-08-07T16:08:37.000Z",
-          "wordCount": null,
-          "title": "🔴Aprender Programação é Ridiculamente Simples #07",
-          "imageUrl": null
         }
       ]
     },
@@ -189,6 +179,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCVngl-zszbWdMcRht9GVrnQ",
       "siteUrl": "https://www.youtube.com/channel/UCVngl-zszbWdMcRht9GVrnQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=wNf3mBZQIi4",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=wNf3mBZQIi4",
+          "publishedOn": "2026-09-05T21:00:28.000Z",
+          "wordCount": null,
+          "title": "8 HORAS DE ANÁLISE COMBINATÓRIA: DO ZERO AO ABSURDO | CURSO COMPLETO",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=_83XQ6pmTE4",
           "author": null,
