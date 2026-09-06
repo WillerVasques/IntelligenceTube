@@ -190,6 +190,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCVngl-zszbWdMcRht9GVrnQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=wNf3mBZQIi4",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=wNf3mBZQIi4",
+          "publishedOn": "2026-09-05T21:00:28.000Z",
+          "wordCount": null,
+          "title": "8 HORAS DE ANÁLISE COMBINATÓRIA: DO ZERO AO ABSURDO | CURSO COMPLETO",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=_83XQ6pmTE4",
           "author": null,
           "description": "",
