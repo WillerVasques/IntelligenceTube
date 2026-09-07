@@ -180,6 +180,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCVngl-zszbWdMcRht9GVrnQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=a4U00tM9rmc",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=a4U00tM9rmc",
+          "publishedOn": "2026-09-07T15:11:02.000Z",
+          "wordCount": null,
+          "title": "ESTATÍSTICA: A aula MAIS COMPLETA para ENEM e Vestibulares",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=wNf3mBZQIi4",
           "author": null,
           "description": "",
