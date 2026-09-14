@@ -149,6 +149,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCVngl-zszbWdMcRht9GVrnQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=I_BYn1R2vuY",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=I_BYn1R2vuY",
+          "publishedOn": "2026-09-14T00:55:23.000Z",
+          "wordCount": null,
+          "title": "COMBINATÓRIA: Fique BRUTAL com essa aula!",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=Fje--F4B3tU",
           "author": null,
           "description": "",
