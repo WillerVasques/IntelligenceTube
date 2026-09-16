@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCpOSu4F9cqSjh1OgbmOT5cQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=cUcxN24SquQ",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=cUcxN24SquQ",
+          "publishedOn": "2026-09-15T22:00:17.000Z",
+          "wordCount": null,
+          "title": "Java é extremamente difícil (mas porque isso é bom pra você)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=Ho76-Inz8vM",
           "author": null,
           "description": "",
