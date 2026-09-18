@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCpOSu4F9cqSjh1OgbmOT5cQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=GWM2yKlHPLU",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=GWM2yKlHPLU",
+          "publishedOn": "2026-09-17T22:00:00.000Z",
+          "wordCount": null,
+          "title": "O MERCADO PARA DEVS EM 2027... SE PREPARE!",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=cUcxN24SquQ",
           "author": null,
           "description": "",
