@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://willervasques.github.io/IntelligenceTube/index.html</id>
     <title>YouTube Intelligence Dashboard</title>
-    <updated>2026-09-19T02:06:31.244Z</updated>
+    <updated>2026-09-19T09:53:40.086Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://willervasques.github.io/IntelligenceTube/index.html"/>
     <link rel="self" href="https://willervasques.github.io/IntelligenceTube/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[FUVEST 2027: 30 MIN PRA SABER O QUE FOCAR EM MATEMÁTICA]]></title>
+        <id>https://www.youtube.com/watch?v=6SW1Oxop79M</id>
+        <link href="https://www.youtube.com/watch?v=6SW1Oxop79M"/>
+        <updated>2026-09-18T23:09:37.000Z</updated>
+        <author>
+            <name>Principia Matemática</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[O MERCADO PARA DEVS EM 2027... SE PREPARE!]]></title>
         <id>https://www.youtube.com/watch?v=GWM2yKlHPLU</id>
@@ -202,15 +211,6 @@
         <updated>2026-08-20T22:00:12.000Z</updated>
         <author>
             <name>Área Tech Brasil</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Eu Provei que 1 + 1 = 0. Duvido Você Encontrar o Erro!]]></title>
-        <id>https://www.youtube.com/watch?v=wef4L7UXqj8</id>
-        <link href="https://www.youtube.com/watch?v=wef4L7UXqj8"/>
-        <updated>2026-08-20T21:00:19.000Z</updated>
-        <author>
-            <name>Principia Matemática</name>
         </author>
     </entry>
 </feed>
