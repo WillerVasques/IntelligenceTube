@@ -149,6 +149,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCVngl-zszbWdMcRht9GVrnQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=6SW1Oxop79M",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=6SW1Oxop79M",
+          "publishedOn": "2026-09-18T23:09:37.000Z",
+          "wordCount": null,
+          "title": "FUVEST 2027: 30 MIN PRA SABER O QUE FOCAR EM MATEMÁTICA",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=I_BYn1R2vuY",
           "author": null,
           "description": "",
@@ -236,16 +246,6 @@
           "publishedOn": "2026-08-23T23:00:50.000Z",
           "wordCount": null,
           "title": "PA e PG: A Aula DEFINITIVA para Vestibulares",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=wef4L7UXqj8",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=wef4L7UXqj8",
-          "publishedOn": "2026-08-20T21:00:19.000Z",
-          "wordCount": null,
-          "title": "Eu Provei que 1 + 1 = 0. Duvido Você Encontrar o Erro!",
           "imageUrl": null
         }
       ]
