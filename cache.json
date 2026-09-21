@@ -129,6 +129,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCVngl-zszbWdMcRht9GVrnQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=t8W8R-vTr_c",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=t8W8R-vTr_c",
+          "publishedOn": "2026-09-21T12:44:20.000Z",
+          "wordCount": null,
+          "title": "A aula que vai DESTRAVAR probabilidade!",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=3ycionM7LUc",
           "author": null,
           "description": "",
