@@ -129,6 +129,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCVngl-zszbWdMcRht9GVrnQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=3ycionM7LUc",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=3ycionM7LUc",
+          "publishedOn": "2026-09-20T20:25:07.000Z",
+          "wordCount": null,
+          "title": "MACETANDO TRIGONOMETRIA | DO ZERO AO AVANÇADO PRA DOMINAR DE VEZ",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=6SW1Oxop79M",
           "author": null,
           "description": "",
