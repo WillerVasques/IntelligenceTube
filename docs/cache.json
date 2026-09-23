@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCpOSu4F9cqSjh1OgbmOT5cQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=R-q5KRHDp5M",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=R-q5KRHDp5M",
+          "publishedOn": "2026-09-22T22:00:01.000Z",
+          "wordCount": null,
+          "title": "O plano realista para sair do zero na programação",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=GWM2yKlHPLU",
           "author": null,
           "description": "",
