@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCpOSu4F9cqSjh1OgbmOT5cQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=R-q5KRHDp5M",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=R-q5KRHDp5M",
+          "publishedOn": "2026-09-22T22:00:01.000Z",
+          "wordCount": null,
+          "title": "O plano realista para sair do zero na programação",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=GWM2yKlHPLU",
           "author": null,
           "description": "",
@@ -103,16 +113,6 @@
           "publishedOn": "2026-08-24T22:29:55.000Z",
           "wordCount": null,
           "title": "CHURRASCO E TECH: BATE-PAPO REAL",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=BYlPsi3Xvc0",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=BYlPsi3Xvc0",
-          "publishedOn": "2026-08-24T17:25:19.000Z",
-          "wordCount": null,
-          "title": "Dia 12 | Programação ainda vale a pena?",
           "imageUrl": null
         }
       ]
