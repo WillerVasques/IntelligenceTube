@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCpOSu4F9cqSjh1OgbmOT5cQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=UVkwDDXNywA",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=UVkwDDXNywA",
+          "publishedOn": "2026-09-24T22:00:09.000Z",
+          "wordCount": null,
+          "title": "A PRÓXIMA Grande onda na Programação",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=R-q5KRHDp5M",
           "author": null,
           "description": "",
