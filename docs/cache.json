@@ -119,6 +119,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCVngl-zszbWdMcRht9GVrnQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=l2VO12e4XOM",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=l2VO12e4XOM",
+          "publishedOn": "2026-09-26T00:17:09.000Z",
+          "wordCount": null,
+          "title": "PRODUTÓRIO DO ZERO: ENTENDA O QUE É DE UMA VEZ",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=sya-Ms9rj1A",
           "author": null,
           "description": "",
