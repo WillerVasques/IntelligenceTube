@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://willervasques.github.io/IntelligenceTube/index.html</id>
     <title>YouTube Intelligence Dashboard</title>
-    <updated>2026-09-27T02:21:50.461Z</updated>
+    <updated>2026-09-27T10:59:13.215Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://willervasques.github.io/IntelligenceTube/index.html"/>
     <link rel="self" href="https://willervasques.github.io/IntelligenceTube/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[LOGARITMO DO ZERO AO AVANÇADO: A AULA DEFINITIVA]]></title>
+        <id>https://www.youtube.com/watch?v=vm5-57MKf1Q</id>
+        <link href="https://www.youtube.com/watch?v=vm5-57MKf1Q"/>
+        <updated>2026-09-27T00:00:08.000Z</updated>
+        <author>
+            <name>Principia Matemática</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[PRODUTÓRIO DO ZERO: ENTENDA O QUE É DE UMA VEZ]]></title>
         <id>https://www.youtube.com/watch?v=l2VO12e4XOM</id>
@@ -184,15 +193,6 @@
         <updated>2026-08-30T20:52:03.000Z</updated>
         <author>
             <name>Principia Matemática</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dia 12 | Sextou Com Desafios de Programação!]]></title>
-        <id>https://www.youtube.com/watch?v=CQpeJuEeKj0</id>
-        <link href="https://www.youtube.com/watch?v=CQpeJuEeKj0"/>
-        <updated>2026-08-28T20:43:08.000Z</updated>
-        <author>
-            <name>Área Tech Brasil</name>
         </author>
     </entry>
 </feed>
