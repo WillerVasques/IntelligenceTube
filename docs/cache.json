@@ -91,7 +91,18 @@
       "title": "A Beleza dos Dados",
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCnpitTIp52GpOC8LaNnWefg",
       "siteUrl": "https://www.youtube.com/channel/UCnpitTIp52GpOC8LaNnWefg",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=HFuHJrC-sic",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=HFuHJrC-sic",
+          "publishedOn": "2026-09-27T15:00:32.000Z",
+          "wordCount": null,
+          "title": "Uma Fórmula ALIMENTOU 4 Bilhões e Armou a Guerra",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "Principia Matemática",
