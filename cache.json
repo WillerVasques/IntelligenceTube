@@ -110,6 +110,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCVngl-zszbWdMcRht9GVrnQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=zQ07fNUMi90",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=zQ07fNUMi90",
+          "publishedOn": "2026-09-28T01:30:24.000Z",
+          "wordCount": null,
+          "title": "CICLO TRIGONOMÉTRICO: Aprenda FINALMENTE!",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=vm5-57MKf1Q",
           "author": null,
           "description": "",

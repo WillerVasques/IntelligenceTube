@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://willervasques.github.io/IntelligenceTube/index.html</id>
     <title>YouTube Intelligence Dashboard</title>
-    <updated>2026-09-27T20:33:28.038Z</updated>
+    <updated>2026-09-28T12:16:38.815Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://willervasques.github.io/IntelligenceTube/index.html"/>
     <link rel="self" href="https://willervasques.github.io/IntelligenceTube/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[CICLO TRIGONOMÉTRICO: Aprenda FINALMENTE!]]></title>
+        <id>https://www.youtube.com/watch?v=zQ07fNUMi90</id>
+        <link href="https://www.youtube.com/watch?v=zQ07fNUMi90"/>
+        <updated>2026-09-28T01:30:24.000Z</updated>
+        <author>
+            <name>Principia Matemática</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Uma Fórmula ALIMENTOU 4 Bilhões e Armou a Guerra]]></title>
         <id>https://www.youtube.com/watch?v=HFuHJrC-sic</id>
