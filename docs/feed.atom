@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://willervasques.github.io/IntelligenceTube/index.html</id>
     <title>YouTube Intelligence Dashboard</title>
-    <updated>2026-10-02T03:00:09.896Z</updated>
+    <updated>2026-10-02T11:31:51.567Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://willervasques.github.io/IntelligenceTube/index.html"/>
     <link rel="self" href="https://willervasques.github.io/IntelligenceTube/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Essa Questão é do ITA… Mas Poderia Cair na FUVEST ou no ENEM]]></title>
+        <id>https://www.youtube.com/watch?v=xweb-mQRaPo</id>
+        <link href="https://www.youtube.com/watch?v=xweb-mQRaPo"/>
+        <updated>2026-10-01T23:49:50.000Z</updated>
+        <author>
+            <name>Principia Matemática</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Expondo Novo GOLPE em ENTREVISTAS Técnicas]]></title>
+        <id>https://www.youtube.com/watch?v=datOJY4nzJo</id>
+        <link href="https://www.youtube.com/watch?v=datOJY4nzJo"/>
+        <updated>2026-10-01T22:00:28.000Z</updated>
+        <author>
+            <name>Área Tech Brasil</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[3 ideias que NÃO TÊM NADA A VER… e todas provam Pitágoras]]></title>
         <id>https://www.youtube.com/watch?v=HB8KuFtL990</id>
@@ -202,15 +220,6 @@
         <updated>2026-09-03T22:00:34.000Z</updated>
         <author>
             <name>Área Tech Brasil</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[O QUE É FUNÇÃO? ME DÊ 1 MINUTO!]]></title>
-        <id>https://www.youtube.com/watch?v=_83XQ6pmTE4</id>
-        <link href="https://www.youtube.com/watch?v=_83XQ6pmTE4"/>
-        <updated>2026-09-02T21:00:19.000Z</updated>
-        <author>
-            <name>Principia Matemática</name>
         </author>
     </entry>
 </feed>

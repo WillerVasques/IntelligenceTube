@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCpOSu4F9cqSjh1OgbmOT5cQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=datOJY4nzJo",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=datOJY4nzJo",
+          "publishedOn": "2026-10-01T22:00:28.000Z",
+          "wordCount": null,
+          "title": "Expondo Novo GOLPE em ENTREVISTAS Técnicas",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=Whfis8PuTxY",
           "author": null,
           "description": "",
@@ -109,6 +119,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCVngl-zszbWdMcRht9GVrnQ",
       "siteUrl": "https://www.youtube.com/channel/UCVngl-zszbWdMcRht9GVrnQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=xweb-mQRaPo",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=xweb-mQRaPo",
+          "publishedOn": "2026-10-01T23:49:50.000Z",
+          "wordCount": null,
+          "title": "Essa Questão é do ITA… Mas Poderia Cair na FUVEST ou no ENEM",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=HB8KuFtL990",
           "author": null,
@@ -237,16 +257,6 @@
           "publishedOn": "2026-09-05T21:00:28.000Z",
           "wordCount": null,
           "title": "8 HORAS DE ANÁLISE COMBINATÓRIA: DO ZERO AO ABSURDO | CURSO COMPLETO",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=_83XQ6pmTE4",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=_83XQ6pmTE4",
-          "publishedOn": "2026-09-02T21:00:19.000Z",
-          "wordCount": null,
-          "title": "O QUE É FUNÇÃO? ME DÊ 1 MINUTO!",
           "imageUrl": null
         }
       ]
