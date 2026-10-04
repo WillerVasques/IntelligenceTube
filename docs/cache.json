@@ -110,6 +110,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCVngl-zszbWdMcRht9GVrnQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=VbdHP9Q-MRQ",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=VbdHP9Q-MRQ",
+          "publishedOn": "2026-10-04T17:01:52.000Z",
+          "wordCount": null,
+          "title": "O Que Você PRECISA Dominar Antes do Vestibular",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=xweb-mQRaPo",
           "author": null,
           "description": "",
