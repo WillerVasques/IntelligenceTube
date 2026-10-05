@@ -110,6 +110,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCVngl-zszbWdMcRht9GVrnQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=lEl5XXlktbw",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=lEl5XXlktbw",
+          "publishedOn": "2026-10-05T12:29:58.000Z",
+          "wordCount": null,
+          "title": "Funções Trigonométricas: A AULA MAIS COMPLETA",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=VbdHP9Q-MRQ",
           "author": null,
           "description": "",
@@ -247,16 +257,6 @@
           "publishedOn": "2026-09-07T15:11:02.000Z",
           "wordCount": null,
           "title": "ESTATÍSTICA: A aula MAIS COMPLETA para ENEM e Vestibulares",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=wNf3mBZQIi4",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=wNf3mBZQIi4",
-          "publishedOn": "2026-09-05T21:00:28.000Z",
-          "wordCount": null,
-          "title": "8 HORAS DE ANÁLISE COMBINATÓRIA: DO ZERO AO ABSURDO | CURSO COMPLETO",
           "imageUrl": null
         }
       ]
