@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCpOSu4F9cqSjh1OgbmOT5cQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=4kR8v1gIaes",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=4kR8v1gIaes",
+          "publishedOn": "2026-10-07T22:00:27.000Z",
+          "wordCount": null,
+          "title": ".equals vs  == no Java - A real Diferença",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=waGphBTdsYo",
           "author": null,
           "description": "",
@@ -119,6 +129,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCVngl-zszbWdMcRht9GVrnQ",
       "siteUrl": "https://www.youtube.com/channel/UCVngl-zszbWdMcRht9GVrnQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=lcHPGzfxntU",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=lcHPGzfxntU",
+          "publishedOn": "2026-10-07T21:00:02.000Z",
+          "wordCount": null,
+          "title": "As 10 Questões que EU Colocaria na FUVEST",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=lEl5XXlktbw",
           "author": null,

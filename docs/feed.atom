@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://willervasques.github.io/IntelligenceTube/index.html</id>
     <title>YouTube Intelligence Dashboard</title>
-    <updated>2026-10-07T12:15:00.021Z</updated>
+    <updated>2026-10-07T22:24:09.291Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://willervasques.github.io/IntelligenceTube/index.html"/>
     <link rel="self" href="https://willervasques.github.io/IntelligenceTube/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[.equals vs  == no Java - A real Diferença]]></title>
+        <id>https://www.youtube.com/watch?v=4kR8v1gIaes</id>
+        <link href="https://www.youtube.com/watch?v=4kR8v1gIaes"/>
+        <updated>2026-10-07T22:00:27.000Z</updated>
+        <author>
+            <name>Área Tech Brasil</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[As 10 Questões que EU Colocaria na FUVEST]]></title>
+        <id>https://www.youtube.com/watch?v=lcHPGzfxntU</id>
+        <link href="https://www.youtube.com/watch?v=lcHPGzfxntU"/>
+        <updated>2026-10-07T21:00:02.000Z</updated>
+        <author>
+            <name>Principia Matemática</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Uma mensagem rápida para todo futuro programador]]></title>
         <id>https://www.youtube.com/watch?v=waGphBTdsYo</id>
