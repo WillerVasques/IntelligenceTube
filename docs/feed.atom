@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://willervasques.github.io/IntelligenceTube/index.html</id>
     <title>YouTube Intelligence Dashboard</title>
-    <updated>2026-10-07T03:10:28.837Z</updated>
+    <updated>2026-10-07T12:15:00.021Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://willervasques.github.io/IntelligenceTube/index.html"/>
     <link rel="self" href="https://willervasques.github.io/IntelligenceTube/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Uma mensagem rápida para todo futuro programador]]></title>
+        <id>https://www.youtube.com/watch?v=waGphBTdsYo</id>
+        <link href="https://www.youtube.com/watch?v=waGphBTdsYo"/>
+        <updated>2026-10-06T22:00:11.000Z</updated>
+        <author>
+            <name>Área Tech Brasil</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Funções Trigonométricas: A AULA MAIS COMPLETA]]></title>
         <id>https://www.youtube.com/watch?v=lEl5XXlktbw</id>
@@ -211,15 +220,6 @@
         <updated>2026-09-08T22:00:38.000Z</updated>
         <author>
             <name>Área Tech Brasil</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ESTATÍSTICA: A aula MAIS COMPLETA para ENEM e Vestibulares]]></title>
-        <id>https://www.youtube.com/watch?v=a4U00tM9rmc</id>
-        <link href="https://www.youtube.com/watch?v=a4U00tM9rmc"/>
-        <updated>2026-09-07T15:11:02.000Z</updated>
-        <author>
-            <name>Principia Matemática</name>
         </author>
     </entry>
 </feed>
