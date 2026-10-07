@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCpOSu4F9cqSjh1OgbmOT5cQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=waGphBTdsYo",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=waGphBTdsYo",
+          "publishedOn": "2026-10-06T22:00:11.000Z",
+          "wordCount": null,
+          "title": "Uma mensagem rápida para todo futuro programador",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=datOJY4nzJo",
           "author": null,
           "description": "",
@@ -247,16 +257,6 @@
           "publishedOn": "2026-09-09T21:00:08.000Z",
           "wordCount": null,
           "title": "SOMATÓRIO DO ZERO: ENTENDA O QUE É DE UMA VEZ",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=a4U00tM9rmc",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=a4U00tM9rmc",
-          "publishedOn": "2026-09-07T15:11:02.000Z",
-          "wordCount": null,
-          "title": "ESTATÍSTICA: A aula MAIS COMPLETA para ENEM e Vestibulares",
           "imageUrl": null
         }
       ]
