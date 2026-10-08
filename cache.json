@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCpOSu4F9cqSjh1OgbmOT5cQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=BdWV7vr-JlE",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=BdWV7vr-JlE",
+          "publishedOn": "2026-10-08T22:00:37.000Z",
+          "wordCount": null,
+          "title": "O Verdadeiro Problema de Aprender a Programar em 2026",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=4kR8v1gIaes",
           "author": null,
           "description": "",
