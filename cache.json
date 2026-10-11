@@ -120,6 +120,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCVngl-zszbWdMcRht9GVrnQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=AEuaFEAphcI",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=AEuaFEAphcI",
+          "publishedOn": "2026-10-11T15:16:57.000Z",
+          "wordCount": null,
+          "title": "FUNÇÕES: 5 HORAS PARA DOMINAR TUDO | DO BÁSICO AO NÍVEL ITA/FUVEST",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=lcHPGzfxntU",
           "author": null,
           "description": "",
