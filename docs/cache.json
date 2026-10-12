@@ -120,6 +120,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCVngl-zszbWdMcRht9GVrnQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=C75kRUKKlQ0",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=C75kRUKKlQ0",
+          "publishedOn": "2026-10-12T02:57:59.000Z",
+          "wordCount": null,
+          "title": "TODAS AS FÓRMULAS DE TRIGONOMETRIA | AULA COMPLETA",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=AEuaFEAphcI",
           "author": null,
           "description": "",
@@ -257,16 +267,6 @@
           "publishedOn": "2026-09-14T00:55:23.000Z",
           "wordCount": null,
           "title": "COMBINATÓRIA: Fique BRUTAL com essa aula!",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=Fje--F4B3tU",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=Fje--F4B3tU",
-          "publishedOn": "2026-09-12T17:00:28.000Z",
-          "wordCount": null,
-          "title": "3h43min PARA DOMINAR PROBABILIDADE | DO ZERO AO AVANÇADO",
           "imageUrl": null
         }
       ]
