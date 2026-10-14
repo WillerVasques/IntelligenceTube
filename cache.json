@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCpOSu4F9cqSjh1OgbmOT5cQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=dXD0VkP1fWc",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=dXD0VkP1fWc",
+          "publishedOn": "2026-10-13T22:00:03.000Z",
+          "wordCount": null,
+          "title": "Por que a IA está nos forçando a voltar para o Java?",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=BdWV7vr-JlE",
           "author": null,
           "description": "",
