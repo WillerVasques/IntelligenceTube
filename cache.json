@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCpOSu4F9cqSjh1OgbmOT5cQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=5676NlLzcCU",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=5676NlLzcCU",
+          "publishedOn": "2026-10-15T22:00:36.000Z",
+          "wordCount": null,
+          "title": "O método realista para aprender Programação sozinho",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=dXD0VkP1fWc",
           "author": null,
           "description": "",
