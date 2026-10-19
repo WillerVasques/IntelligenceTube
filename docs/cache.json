@@ -120,6 +120,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCVngl-zszbWdMcRht9GVrnQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=pMAQ5qRoNVc",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=pMAQ5qRoNVc",
+          "publishedOn": "2026-10-19T14:52:30.000Z",
+          "wordCount": null,
+          "title": "Equações Trigonométricas: FIQUE BRUTAL COM ESSA AULA",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=BCo2m8Cx5rE",
           "author": null,
           "description": "",
