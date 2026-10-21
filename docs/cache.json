@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCpOSu4F9cqSjh1OgbmOT5cQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=pdVsk6FIOV8",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=pdVsk6FIOV8",
+          "publishedOn": "2026-10-20T22:00:04.000Z",
+          "wordCount": null,
+          "title": "O MERCADO DEV JÚNIOR MUDOU PARA SEMPRE !",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=5676NlLzcCU",
           "author": null,
           "description": "",
@@ -257,16 +267,6 @@
           "publishedOn": "2026-09-23T22:39:52.000Z",
           "wordCount": null,
           "title": "SE EU FOSSE FAZER A FUVEST, REVISARIA MATEMÁTICA ASSIM",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=t8W8R-vTr_c",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=t8W8R-vTr_c",
-          "publishedOn": "2026-09-21T12:44:20.000Z",
-          "wordCount": null,
-          "title": "A aula que vai DESTRAVAR probabilidade!",
           "imageUrl": null
         }
       ]
