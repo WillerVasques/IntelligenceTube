@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCpOSu4F9cqSjh1OgbmOT5cQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=AxSSsOS2QKM",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=AxSSsOS2QKM",
+          "publishedOn": "2026-10-22T22:00:21.000Z",
+          "wordCount": null,
+          "title": "Brasil bate recorde em registros de software por IA",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=pdVsk6FIOV8",
           "author": null,
           "description": "",
@@ -247,16 +257,6 @@
           "publishedOn": "2026-09-26T00:17:09.000Z",
           "wordCount": null,
           "title": "PRODUTÓRIO DO ZERO: ENTENDA O QUE É DE UMA VEZ",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=sya-Ms9rj1A",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=sya-Ms9rj1A",
-          "publishedOn": "2026-09-23T22:39:52.000Z",
-          "wordCount": null,
-          "title": "SE EU FOSSE FAZER A FUVEST, REVISARIA MATEMÁTICA ASSIM",
           "imageUrl": null
         }
       ]
