@@ -120,6 +120,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCVngl-zszbWdMcRht9GVrnQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=IwTDH1IEILo",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=IwTDH1IEILo",
+          "publishedOn": "2026-10-26T15:20:03.000Z",
+          "wordCount": null,
+          "title": "Geometria Espacial: Fique BRUTAL em PRISMAS e PIRÂMIDES!",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=pMAQ5qRoNVc",
           "author": null,
           "description": "",
@@ -227,16 +237,6 @@
           "publishedOn": "2026-09-28T01:30:24.000Z",
           "wordCount": null,
           "title": "CICLO TRIGONOMÉTRICO: Aprenda FINALMENTE!",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=vm5-57MKf1Q",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=vm5-57MKf1Q",
-          "publishedOn": "2026-09-27T00:00:08.000Z",
-          "wordCount": null,
-          "title": "LOGARITMO DO ZERO AO AVANÇADO: A AULA DEFINITIVA",
           "imageUrl": null
         }
       ]
