@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://willervasques.github.io/IntelligenceTube/index.html</id>
     <title>YouTube Intelligence Dashboard</title>
-    <updated>2026-10-27T02:47:25.286Z</updated>
+    <updated>2026-10-27T11:13:17.432Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://willervasques.github.io/IntelligenceTube/index.html"/>
     <link rel="self" href="https://willervasques.github.io/IntelligenceTube/feed.atom"/>
@@ -193,15 +193,6 @@
         <updated>2026-09-28T01:30:24.000Z</updated>
         <author>
             <name>Principia Matemática</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Uma Fórmula ALIMENTOU 4 Bilhões e Armou a Guerra]]></title>
-        <id>https://www.youtube.com/watch?v=HFuHJrC-sic</id>
-        <link href="https://www.youtube.com/watch?v=HFuHJrC-sic"/>
-        <updated>2026-09-27T15:00:32.000Z</updated>
-        <author>
-            <name>A Beleza dos Dados</name>
         </author>
     </entry>
 </feed>
