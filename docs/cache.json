@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCpOSu4F9cqSjh1OgbmOT5cQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=UUzH3T3v_UA",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=UUzH3T3v_UA",
+          "publishedOn": "2026-10-29T22:01:00.000Z",
+          "wordCount": null,
+          "title": "NÃO vale a pena ser dev em 2027",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=eyyf0t5uNRg",
           "author": null,
           "description": "",
