@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://willervasques.github.io/IntelligenceTube/index.html</id>
     <title>YouTube Intelligence Dashboard</title>
-    <updated>2026-10-31T20:45:53.645Z</updated>
+    <updated>2026-11-01T12:14:24.162Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://willervasques.github.io/IntelligenceTube/index.html"/>
     <link rel="self" href="https://willervasques.github.io/IntelligenceTube/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[O plano direto para aprender Programação do ZERO com Java!]]></title>
+        <id>https://www.youtube.com/watch?v=Md6rKuQLgcA</id>
+        <link href="https://www.youtube.com/watch?v=Md6rKuQLgcA"/>
+        <updated>2026-11-01T11:00:06.000Z</updated>
+        <author>
+            <name>Área Tech Brasil</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[NÃO vale a pena ser dev em 2027]]></title>
         <id>https://www.youtube.com/watch?v=UUzH3T3v_UA</id>
