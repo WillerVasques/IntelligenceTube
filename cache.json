@@ -119,6 +119,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCVngl-zszbWdMcRht9GVrnQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=grrS1T2NDug",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=grrS1T2NDug",
+          "publishedOn": "2026-11-01T14:43:43.000Z",
+          "wordCount": null,
+          "title": "FUVEST 2027: CORREÇÃO COMPLETA DE MATEMÁTICA AO VIVO | 1ª FASE",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=IwTDH1IEILo",
           "author": null,
           "description": "",
