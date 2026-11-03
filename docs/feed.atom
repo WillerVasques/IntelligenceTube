@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://willervasques.github.io/IntelligenceTube/index.html</id>
     <title>YouTube Intelligence Dashboard</title>
-    <updated>2026-11-03T00:09:10.247Z</updated>
+    <updated>2026-11-03T13:11:55.970Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://willervasques.github.io/IntelligenceTube/index.html"/>
     <link rel="self" href="https://willervasques.github.io/IntelligenceTube/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Alunos contam ao vivo a verdade sobre aprender programação]]></title>
+        <id>https://www.youtube.com/watch?v=_Izx9tlvb8E</id>
+        <link href="https://www.youtube.com/watch?v=_Izx9tlvb8E"/>
+        <updated>2026-11-03T11:47:39.000Z</updated>
+        <author>
+            <name>Área Tech Brasil</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CILINDROS, CONES E ESFERAS: DOMINE TUDO EM 3 HORAS! 🔥]]></title>
+        <id>https://www.youtube.com/watch?v=v31Wqg9CzPw</id>
+        <link href="https://www.youtube.com/watch?v=v31Wqg9CzPw"/>
+        <updated>2026-11-03T02:10:03.000Z</updated>
+        <author>
+            <name>Principia Matemática</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[FUVEST 2027: CORREÇÃO COMPLETA DE MATEMÁTICA AO VIVO | 1ª FASE]]></title>
         <id>https://www.youtube.com/watch?v=grrS1T2NDug</id>
@@ -173,15 +191,6 @@
         <id>https://www.youtube.com/watch?v=lEl5XXlktbw</id>
         <link href="https://www.youtube.com/watch?v=lEl5XXlktbw"/>
         <updated>2026-10-05T12:29:58.000Z</updated>
-        <author>
-            <name>Principia Matemática</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[O Que Você PRECISA Dominar Antes do Vestibular]]></title>
-        <id>https://www.youtube.com/watch?v=VbdHP9Q-MRQ</id>
-        <link href="https://www.youtube.com/watch?v=VbdHP9Q-MRQ"/>
-        <updated>2026-10-04T17:01:52.000Z</updated>
         <author>
             <name>Principia Matemática</name>
         </author>

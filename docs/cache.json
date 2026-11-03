@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCpOSu4F9cqSjh1OgbmOT5cQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=_Izx9tlvb8E",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=_Izx9tlvb8E",
+          "publishedOn": "2026-11-03T11:47:39.000Z",
+          "wordCount": null,
+          "title": "Alunos contam ao vivo a verdade sobre aprender programação",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=Md6rKuQLgcA",
           "author": null,
           "description": "",
@@ -119,6 +129,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCVngl-zszbWdMcRht9GVrnQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=v31Wqg9CzPw",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=v31Wqg9CzPw",
+          "publishedOn": "2026-11-03T02:10:03.000Z",
+          "wordCount": null,
+          "title": "CILINDROS, CONES E ESFERAS: DOMINE TUDO EM 3 HORAS! 🔥",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=grrS1T2NDug",
           "author": null,
           "description": "",
@@ -206,16 +226,6 @@
           "publishedOn": "2026-10-05T12:29:58.000Z",
           "wordCount": null,
           "title": "Funções Trigonométricas: A AULA MAIS COMPLETA",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=VbdHP9Q-MRQ",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=VbdHP9Q-MRQ",
-          "publishedOn": "2026-10-04T17:01:52.000Z",
-          "wordCount": null,
-          "title": "O Que Você PRECISA Dominar Antes do Vestibular",
           "imageUrl": null
         }
       ]
