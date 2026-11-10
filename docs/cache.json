@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCpOSu4F9cqSjh1OgbmOT5cQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=mtCtcfIF45k",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=mtCtcfIF45k",
+          "publishedOn": "2026-11-10T22:00:28.000Z",
+          "wordCount": null,
+          "title": "A verdade sobre começar no Programação em 2027 (sem papo de guru)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=VeRqzhqi-EA",
           "author": null,
           "description": "",
@@ -196,16 +206,6 @@
           "publishedOn": "2026-10-16T22:59:12.000Z",
           "wordCount": null,
           "title": "ESSE TRIÂNGULO TEM 270° (E NÃO TEM NADA ERRADO!)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=C75kRUKKlQ0",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=C75kRUKKlQ0",
-          "publishedOn": "2026-10-12T02:57:59.000Z",
-          "wordCount": null,
-          "title": "TODAS AS FÓRMULAS DE TRIGONOMETRIA | AULA COMPLETA",
           "imageUrl": null
         }
       ]
