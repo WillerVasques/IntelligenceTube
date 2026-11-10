@@ -119,6 +119,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCVngl-zszbWdMcRht9GVrnQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=II-EjITcayg",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=II-EjITcayg",
+          "publishedOn": "2026-11-09T21:55:33.000Z",
+          "wordCount": null,
+          "title": "TODA A MATEMÁTICA BÁSICA PARA O ENEM 2026 EM UMA ÚNICA AULA!",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=oIRwqj8rEco",
           "author": null,
           "description": "",
@@ -196,16 +206,6 @@
           "publishedOn": "2026-10-12T02:57:59.000Z",
           "wordCount": null,
           "title": "TODAS AS FÓRMULAS DE TRIGONOMETRIA | AULA COMPLETA",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=AEuaFEAphcI",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=AEuaFEAphcI",
-          "publishedOn": "2026-10-11T15:16:57.000Z",
-          "wordCount": null,
-          "title": "FUNÇÕES: 5 HORAS PARA DOMINAR TUDO | DO BÁSICO AO NÍVEL ITA/FUVEST",
           "imageUrl": null
         }
       ]
