@@ -104,16 +104,6 @@
           "wordCount": null,
           "title": "O método realista para aprender Programação sozinho",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=dXD0VkP1fWc",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=dXD0VkP1fWc",
-          "publishedOn": "2026-10-13T22:00:03.000Z",
-          "wordCount": null,
-          "title": "Por que a IA está nos forçando a voltar para o Java?",
-          "imageUrl": null
         }
       ]
     },
@@ -128,6 +118,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCVngl-zszbWdMcRht9GVrnQ",
       "siteUrl": "https://www.youtube.com/channel/UCVngl-zszbWdMcRht9GVrnQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=FJaAFwM-Zj4",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=FJaAFwM-Zj4",
+          "publishedOn": "2026-11-11T23:58:10.000Z",
+          "wordCount": null,
+          "title": "TUDO DE COMBINATÓRIA E PROBABILIDADE PARA O ENEM 2026",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=iTAcymA6MYU",
           "author": null,
