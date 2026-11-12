@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCpOSu4F9cqSjh1OgbmOT5cQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=74w3QglA86E",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=74w3QglA86E",
+          "publishedOn": "2026-11-12T22:00:07.000Z",
+          "wordCount": null,
+          "title": "Como usar a IA para estudar programação",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=mtCtcfIF45k",
           "author": null,
           "description": "",
@@ -118,6 +128,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCVngl-zszbWdMcRht9GVrnQ",
       "siteUrl": "https://www.youtube.com/channel/UCVngl-zszbWdMcRht9GVrnQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=555dueMQXBs",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=555dueMQXBs",
+          "publishedOn": "2026-11-12T22:00:57.000Z",
+          "wordCount": null,
+          "title": "TUDO DE GEOMETRIA PLANA PRO ENEM EM UMA ÚNICA AULA",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=FJaAFwM-Zj4",
           "author": null,
