@@ -119,6 +119,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCVngl-zszbWdMcRht9GVrnQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=Tfz4n8qZJ-U",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Tfz4n8qZJ-U",
+          "publishedOn": "2026-11-16T12:14:18.000Z",
+          "wordCount": null,
+          "title": "ENEM 2026: O QUE FIZERAM COM A PROVA DE MATEMÁTICA?!",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=Gjg3VNN76p4",
           "author": null,
           "description": "",
@@ -216,16 +226,6 @@
           "publishedOn": "2026-10-19T14:52:30.000Z",
           "wordCount": null,
           "title": "Equações Trigonométricas: FIQUE BRUTAL COM ESSA AULA",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=BCo2m8Cx5rE",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=BCo2m8Cx5rE",
-          "publishedOn": "2026-10-17T22:23:17.000Z",
-          "wordCount": null,
-          "title": "UNICAMP 2027: CORREÇÃO COMPLETA AO VIVO DE MATEMÁTICA | 1ª FASE",
           "imageUrl": null
         }
       ]
