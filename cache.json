@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCpOSu4F9cqSjh1OgbmOT5cQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=WhLdFyo3wx0",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=WhLdFyo3wx0",
+          "publishedOn": "2026-11-17T22:00:29.000Z",
+          "wordCount": null,
+          "title": "A Programação não é mais a mesma (eu avisei)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=74w3QglA86E",
           "author": null,
           "description": "",
@@ -111,7 +121,18 @@
       "title": "A Beleza dos Dados",
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCnpitTIp52GpOC8LaNnWefg",
       "siteUrl": "https://www.youtube.com/channel/UCnpitTIp52GpOC8LaNnWefg",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=csvX3huYfts",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=csvX3huYfts",
+          "publishedOn": "2026-11-17T22:00:10.000Z",
+          "wordCount": null,
+          "title": "Eles Deixaram o Melhor Onde Ninguém Procurava",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "Principia Matemática",
