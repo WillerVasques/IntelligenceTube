@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCpOSu4F9cqSjh1OgbmOT5cQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=C3QSRtl_ak4",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=C3QSRtl_ak4",
+          "publishedOn": "2026-11-26T22:00:01.000Z",
+          "wordCount": null,
+          "title": "O QUE NINGUÉM FALA SOBRE AS VAGAS P/ DEV JÚNIOR",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=tHsHiP66y9w",
           "author": null,
           "description": "",
